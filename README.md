@@ -6,7 +6,7 @@ Contributed by
 
 -Heramb Lonkar  `skad00sh`
 
-*Structure*
+**Structure**
 ```
 root
 ├── R Scripts                             #All R scripts
