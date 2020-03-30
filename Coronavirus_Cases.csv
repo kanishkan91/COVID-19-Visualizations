@@ -1,0 +1,1326 @@
+state,date,Day,Cases,Ref,Cumulative_cases,Growth_rate
+Alabama,3/13/2020,35.00,6,Alabama43903,0,0
+Alabama,3/14/2020,36.00,12,Alabama43904,6,6
+Alabama,3/15/2020,37.00,23,Alabama43905,18,12
+Alabama,3/16/2020,38.00,29,Alabama43906,41,23
+Alabama,3/17/2020,39.00,39,Alabama43907,70,29
+Alabama,3/18/2020,40.00,51,Alabama43908,109,39
+Alabama,3/19/2020,41.00,78,Alabama43909,160,51
+Alabama,3/20/2020,42.00,106,Alabama43910,238,78
+Alabama,3/21/2020,43.00,131,Alabama43911,344,106
+Alabama,3/22/2020,44.00,157,Alabama43912,475,131
+Alabama,3/23/2020,45.00,196,Alabama43913,632,157
+Alabama,3/24/2020,46.00,242,Alabama43914,828,196
+Alabama,3/25/2020,47.00,386,Alabama43915,1070,242
+Alaska,3/13/2020,35.00,1,Alaska43903,0,0
+Alaska,3/14/2020,36.00,1,Alaska43904,1,1
+Alaska,3/15/2020,37.00,1,Alaska43905,2,1
+Alaska,3/16/2020,38.00,3,Alaska43906,3,1
+Alaska,3/17/2020,39.00,6,Alaska43907,6,3
+Alaska,3/18/2020,40.00,9,Alaska43908,12,6
+Alaska,3/19/2020,41.00,12,Alaska43909,21,9
+Alaska,3/20/2020,42.00,14,Alaska43910,33,12
+Alaska,3/21/2020,43.00,21,Alaska43911,47,14
+Alaska,3/22/2020,44.00,22,Alaska43912,68,21
+Alaska,3/23/2020,45.00,36,Alaska43913,90,22
+Alaska,3/24/2020,46.00,42,Alaska43914,126,36
+Alaska,3/25/2020,47.00,59,Alaska43915,168,42
+Alaska,12/3/2020,65.00,1,Alaska44168,227,59
+Arizona,1/2/2020,1.00,1,Arizona43832,0,0
+Arizona,1/3/2020,2.00,1,Arizona43833,1,1
+Arizona,1/26/2020,8.00,1,Arizona43856,2,1
+Arizona,1/27/2020,9.00,1,Arizona43857,3,1
+Arizona,1/28/2020,10.00,1,Arizona43858,4,1
+Arizona,1/29/2020,11.00,1,Arizona43859,5,1
+Arizona,1/30/2020,12.00,1,Arizona43860,6,1
+Arizona,1/31/2020,13.00,1,Arizona43861,7,1
+Arizona,2/2/2020,14.00,1,Arizona43863,8,1
+Arizona,2/3/2020,15.00,1,Arizona43864,9,1
+Arizona,2/13/2020,16.00,1,Arizona43874,10,1
+Arizona,2/14/2020,17.00,1,Arizona43875,11,1
+Arizona,2/15/2020,18.00,1,Arizona43876,12,1
+Arizona,2/16/2020,19.00,1,Arizona43877,13,1
+Arizona,2/17/2020,20.00,1,Arizona43878,14,1
+Arizona,2/18/2020,21.00,1,Arizona43879,15,1
+Arizona,2/19/2020,22.00,1,Arizona43880,16,1
+Arizona,2/20/2020,23.00,1,Arizona43881,17,1
+Arizona,2/21/2020,24.00,1,Arizona43882,18,1
+Arizona,2/22/2020,25.00,1,Arizona43883,19,1
+Arizona,2/23/2020,26.00,1,Arizona43884,20,1
+Arizona,2/24/2020,27.00,1,Arizona43885,21,1
+Arizona,2/25/2020,28.00,1,Arizona43886,22,1
+Arizona,2/26/2020,29.00,1,Arizona43887,23,1
+Arizona,2/27/2020,30.00,1,Arizona43888,24,1
+Arizona,2/28/2020,31.00,1,Arizona43889,25,1
+Arizona,2/29/2020,32.00,1,Arizona43890,26,1
+Arizona,3/2/2020,33.00,1,Arizona43892,27,1
+Arizona,3/3/2020,34.00,2,Arizona43893,28,1
+Arizona,3/13/2020,35.00,9,Arizona43903,30,2
+Arizona,3/14/2020,36.00,12,Arizona43904,39,9
+Arizona,3/15/2020,37.00,13,Arizona43905,51,12
+Arizona,3/16/2020,38.00,18,Arizona43906,64,13
+Arizona,3/17/2020,39.00,20,Arizona43907,82,18
+Arizona,3/18/2020,40.00,28,Arizona43908,102,20
+Arizona,3/19/2020,41.00,47,Arizona43909,130,28
+Arizona,3/20/2020,42.00,70,Arizona43910,177,47
+Arizona,3/21/2020,43.00,104,Arizona43911,247,70
+Arizona,3/22/2020,44.00,153,Arizona43912,351,104
+Arizona,3/23/2020,45.00,234,Arizona43913,504,153
+Arizona,3/24/2020,46.00,326,Arizona43914,738,234
+Arizona,3/25/2020,47.00,402,Arizona43915,1064,326
+Arizona,4/2/2020,48.00,1,Arizona43923,1466,402
+Arizona,4/3/2020,49.00,2,Arizona43924,1467,1
+Arizona,5/2/2020,50.00,1,Arizona43953,1469,2
+Arizona,5/3/2020,51.00,2,Arizona43954,1470,1
+Arizona,6/2/2020,52.00,1,Arizona43984,1472,2
+Arizona,6/3/2020,53.00,3,Arizona43985,1473,1
+Arizona,7/2/2020,54.00,1,Arizona44014,1476,3
+Arizona,7/3/2020,55.00,5,Arizona44015,1477,1
+Arizona,8/2/2020,56.00,1,Arizona44045,1482,5
+Arizona,8/3/2020,57.00,5,Arizona44046,1483,1
+Arizona,9/2/2020,58.00,1,Arizona44076,1488,5
+Arizona,9/3/2020,59.00,6,Arizona44077,1489,1
+Arizona,10/2/2020,60.00,1,Arizona44106,1495,6
+Arizona,10/3/2020,61.00,6,Arizona44107,1496,1
+Arizona,11/2/2020,62.00,1,Arizona44137,1502,6
+Arizona,11/3/2020,63.00,9,Arizona44138,1503,1
+Arizona,12/2/2020,64.00,1,Arizona44167,1512,9
+Arizona,12/3/2020,65.00,9,Arizona44168,1513,1
+Arkansas,3/13/2020,35.00,7,Arkansas43903,0,0
+Arkansas,3/14/2020,36.00,9,Arkansas43904,7,7
+Arkansas,3/15/2020,37.00,16,Arkansas43905,16,9
+Arkansas,3/16/2020,38.00,22,Arkansas43906,32,16
+Arkansas,3/17/2020,39.00,22,Arkansas43907,54,22
+Arkansas,3/18/2020,40.00,33,Arkansas43908,76,22
+Arkansas,3/19/2020,41.00,62,Arkansas43909,109,33
+Arkansas,3/20/2020,42.00,100,Arkansas43910,171,62
+Arkansas,3/21/2020,43.00,118,Arkansas43911,271,100
+Arkansas,3/22/2020,44.00,165,Arkansas43912,389,118
+Arkansas,3/23/2020,45.00,201,Arkansas43913,554,165
+Arkansas,3/24/2020,46.00,291,Arkansas43914,755,201
+Arkansas,3/25/2020,47.00,367,Arkansas43915,1046,291
+Arkansas,11/3/2020,63.00,1,Arkansas44138,1413,367
+Arkansas,12/3/2020,65.00,6,Arkansas44168,1414,1
+California,1/2/2020,1.00,3,California43832,0,0
+California,1/3/2020,2.00,33,California43833,3,3
+California,1/25/2020,7.00,1,California43855,36,33
+California,1/26/2020,8.00,2,California43856,37,1
+California,1/27/2020,9.00,2,California43857,39,2
+California,1/28/2020,10.00,2,California43858,41,2
+California,1/29/2020,11.00,2,California43859,43,2
+California,1/30/2020,12.00,2,California43860,45,2
+California,1/31/2020,13.00,3,California43861,47,2
+California,2/2/2020,14.00,6,California43863,50,3
+California,2/3/2020,15.00,38,California43864,56,6
+California,2/13/2020,16.00,7,California43874,94,38
+California,2/14/2020,17.00,7,California43875,101,7
+California,2/15/2020,18.00,7,California43876,108,7
+California,2/16/2020,19.00,7,California43877,115,7
+California,2/17/2020,20.00,7,California43878,122,7
+California,2/18/2020,21.00,7,California43879,129,7
+California,2/19/2020,22.00,7,California43880,136,7
+California,2/20/2020,23.00,8,California43881,143,7
+California,2/21/2020,24.00,9,California43882,151,8
+California,2/22/2020,25.00,9,California43883,160,9
+California,2/23/2020,26.00,9,California43884,169,9
+California,2/24/2020,27.00,11,California43885,178,9
+California,2/25/2020,28.00,11,California43886,189,11
+California,2/26/2020,29.00,26,California43887,200,11
+California,2/27/2020,30.00,26,California43888,226,26
+California,2/28/2020,31.00,27,California43889,252,26
+California,2/29/2020,32.00,28,California43890,279,27
+California,3/2/2020,33.00,6,California43892,307,28
+California,3/3/2020,34.00,45,California43893,313,6
+California,3/13/2020,35.00,320,California43903,358,45
+California,3/14/2020,36.00,381,California43904,678,320
+California,3/15/2020,37.00,478,California43905,1059,381
+California,3/16/2020,38.00,588,California43906,1537,478
+California,3/17/2020,39.00,732,California43907,2125,588
+California,3/18/2020,40.00,893,California43908,2857,732
+California,3/19/2020,41.00,1067,California43909,3750,893
+California,3/20/2020,42.00,1283,California43910,4817,1067
+California,3/21/2020,43.00,1544,California43911,6100,1283
+California,3/22/2020,44.00,1851,California43912,7644,1544
+California,3/23/2020,45.00,2240,California43913,9495,1851
+California,3/24/2020,46.00,2646,California43914,11735,2240
+California,3/25/2020,47.00,3185,California43915,14381,2646
+California,4/2/2020,48.00,6,California43923,17566,3185
+California,4/3/2020,49.00,55,California43924,17572,6
+California,5/2/2020,50.00,6,California43953,17627,55
+California,5/3/2020,51.00,67,California43954,17633,6
+California,6/2/2020,52.00,6,California43984,17700,67
+California,6/3/2020,53.00,81,California43985,17706,6
+California,7/2/2020,54.00,6,California44014,17787,81
+California,7/3/2020,55.00,100,California44015,17793,6
+California,8/2/2020,56.00,6,California44045,17893,100
+California,8/3/2020,57.00,112,California44046,17899,6
+California,9/2/2020,58.00,6,California44076,18011,112
+California,9/3/2020,59.00,172,California44077,18017,6
+California,10/2/2020,60.00,7,California44106,18189,172
+California,10/3/2020,61.00,179,California44107,18196,7
+California,11/2/2020,62.00,7,California44137,18375,179
+California,11/3/2020,63.00,202,California44138,18382,7
+California,12/2/2020,64.00,7,California44167,18584,202
+California,12/3/2020,65.00,252,California44168,18591,7
+Colorado,3/13/2020,35.00,78,Colorado43903,0,0
+Colorado,3/14/2020,36.00,103,Colorado43904,78,78
+Colorado,3/15/2020,37.00,136,Colorado43905,181,103
+Colorado,3/16/2020,38.00,161,Colorado43906,317,136
+Colorado,3/17/2020,39.00,183,Colorado43907,478,161
+Colorado,3/18/2020,40.00,216,Colorado43908,661,183
+Colorado,3/19/2020,41.00,278,Colorado43909,877,216
+Colorado,3/20/2020,42.00,364,Colorado43910,1155,278
+Colorado,3/21/2020,43.00,475,Colorado43911,1519,364
+Colorado,3/22/2020,44.00,591,Colorado43912,1994,475
+Colorado,3/23/2020,45.00,721,Colorado43913,2585,591
+Colorado,3/24/2020,46.00,912,Colorado43914,3306,721
+Colorado,3/25/2020,47.00,1086,Colorado43915,4218,912
+Colorado,5/3/2020,51.00,2,Colorado43954,5304,1086
+Colorado,6/3/2020,53.00,8,Colorado43985,5306,2
+Colorado,7/3/2020,55.00,8,Colorado44015,5314,8
+Colorado,8/3/2020,57.00,8,Colorado44046,5322,8
+Colorado,9/3/2020,59.00,12,Colorado44077,5330,8
+Colorado,10/3/2020,61.00,17,Colorado44107,5342,12
+Colorado,11/3/2020,63.00,34,Colorado44138,5359,17
+Colorado,12/3/2020,65.00,49,Colorado44168,5393,34
+Connecticut,3/13/2020,35.00,11,Connecticut43903,0,0
+Connecticut,3/14/2020,36.00,20,Connecticut43904,11,11
+Connecticut,3/15/2020,37.00,26,Connecticut43905,31,20
+Connecticut,3/16/2020,38.00,41,Connecticut43906,57,26
+Connecticut,3/17/2020,39.00,68,Connecticut43907,98,41
+Connecticut,3/18/2020,40.00,96,Connecticut43908,166,68
+Connecticut,3/19/2020,41.00,159,Connecticut43909,262,96
+Connecticut,3/20/2020,42.00,194,Connecticut43910,421,159
+Connecticut,3/21/2020,43.00,223,Connecticut43911,615,194
+Connecticut,3/22/2020,44.00,327,Connecticut43912,838,223
+Connecticut,3/23/2020,45.00,415,Connecticut43913,1165,327
+Connecticut,3/24/2020,46.00,618,Connecticut43914,1580,415
+Connecticut,3/25/2020,47.00,875,Connecticut43915,2198,618
+Connecticut,8/3/2020,57.00,1,Connecticut44046,3073,875
+Connecticut,9/3/2020,59.00,2,Connecticut44077,3074,1
+Connecticut,10/3/2020,61.00,2,Connecticut44107,3076,2
+Connecticut,11/3/2020,63.00,3,Connecticut44138,3078,2
+Connecticut,12/3/2020,65.00,6,Connecticut44168,3081,3
+Delaware,3/13/2020,35.00,4,Delaware43903,0,0
+Delaware,3/14/2020,36.00,4,Delaware43904,4,4
+Delaware,3/15/2020,37.00,7,Delaware43905,8,4
+Delaware,3/16/2020,38.00,8,Delaware43906,15,7
+Delaware,3/17/2020,39.00,16,Delaware43907,23,8
+Delaware,3/18/2020,40.00,26,Delaware43908,39,16
+Delaware,3/19/2020,41.00,30,Delaware43909,65,26
+Delaware,3/20/2020,42.00,39,Delaware43910,95,30
+Delaware,3/21/2020,43.00,45,Delaware43911,134,39
+Delaware,3/22/2020,44.00,56,Delaware43912,179,45
+Delaware,3/23/2020,45.00,87,Delaware43913,235,56
+Delaware,3/24/2020,46.00,104,Delaware43914,322,87
+Delaware,3/25/2020,47.00,119,Delaware43915,426,104
+Delaware,11/3/2020,63.00,1,Delaware44138,545,119
+Delaware,12/3/2020,65.00,4,Delaware44168,546,1
+District of Columbia,3/13/2020,35.00,10,District of Columbia43903,0,0
+District of Columbia,3/14/2020,36.00,16,District of Columbia43904,10,10
+District of Columbia,3/15/2020,37.00,17,District of Columbia43905,26,16
+District of Columbia,3/16/2020,38.00,22,District of Columbia43906,43,17
+District of Columbia,3/17/2020,39.00,31,District of Columbia43907,65,22
+District of Columbia,3/18/2020,40.00,36,District of Columbia43908,96,31
+District of Columbia,3/19/2020,41.00,68,District of Columbia43909,132,36
+District of Columbia,3/20/2020,42.00,77,District of Columbia43910,200,68
+District of Columbia,3/21/2020,43.00,98,District of Columbia43911,277,77
+District of Columbia,3/22/2020,44.00,116,District of Columbia43912,375,98
+District of Columbia,3/23/2020,45.00,138,District of Columbia43913,491,116
+District of Columbia,3/24/2020,46.00,183,District of Columbia43914,629,138
+District of Columbia,3/25/2020,47.00,231,District of Columbia43915,812,183
+District of Columbia,7/3/2020,55.00,1,District of Columbia44015,1043,231
+District of Columbia,8/3/2020,57.00,1,District of Columbia44046,1044,1
+District of Columbia,9/3/2020,59.00,4,District of Columbia44077,1045,1
+District of Columbia,10/3/2020,61.00,4,District of Columbia44107,1049,4
+District of Columbia,11/3/2020,63.00,10,District of Columbia44138,1053,4
+District of Columbia,12/3/2020,65.00,10,District of Columbia44168,1063,10
+Florida,1/3/2020,2.00,2,Florida43833,0,0
+Florida,2/3/2020,15.00,2,Florida43864,2,2
+Florida,3/3/2020,34.00,3,Florida43893,4,2
+Florida,3/13/2020,35.00,70,Florida43903,7,3
+Florida,3/14/2020,36.00,70,Florida43904,77,70
+Florida,3/15/2020,37.00,109,Florida43905,147,70
+Florida,3/16/2020,38.00,141,Florida43906,256,109
+Florida,3/17/2020,39.00,210,Florida43907,397,141
+Florida,3/18/2020,40.00,326,Florida43908,607,210
+Florida,3/19/2020,41.00,434,Florida43909,933,326
+Florida,3/20/2020,42.00,564,Florida43910,1367,434
+Florida,3/21/2020,43.00,764,Florida43911,1931,564
+Florida,3/22/2020,44.00,1000,Florida43912,2695,764
+Florida,3/23/2020,45.00,1222,Florida43913,3695,1000
+Florida,3/24/2020,46.00,1458,Florida43914,4917,1222
+Florida,3/25/2020,47.00,1971,Florida43915,6375,1458
+Florida,4/3/2020,49.00,3,Florida43924,8346,1971
+Florida,5/3/2020,51.00,4,Florida43954,8349,3
+Florida,6/3/2020,53.00,7,Florida43985,8353,4
+Florida,7/3/2020,55.00,12,Florida44015,8360,7
+Florida,8/3/2020,57.00,13,Florida44046,8372,12
+Florida,9/3/2020,59.00,14,Florida44077,8385,13
+Florida,10/3/2020,61.00,23,Florida44107,8399,14
+Florida,11/3/2020,63.00,26,Florida44138,8422,23
+Florida,12/3/2020,65.00,46,Florida44168,8448,26
+Georgia,2/3/2020,15.00,2,Georgia43864,0,0
+Georgia,3/3/2020,34.00,2,Georgia43893,2,2
+Georgia,3/13/2020,35.00,41,Georgia43903,4,2
+Georgia,3/14/2020,36.00,65,Georgia43904,45,41
+Georgia,3/15/2020,37.00,97,Georgia43905,110,65
+Georgia,3/16/2020,38.00,118,Georgia43906,207,97
+Georgia,3/17/2020,39.00,142,Georgia43907,325,118
+Georgia,3/18/2020,40.00,193,Georgia43908,467,142
+Georgia,3/19/2020,41.00,282,Georgia43909,660,193
+Georgia,3/20/2020,42.00,482,Georgia43910,942,282
+Georgia,3/21/2020,43.00,552,Georgia43911,1424,482
+Georgia,3/22/2020,44.00,620,Georgia43912,1976,552
+Georgia,3/23/2020,45.00,800,Georgia43913,2596,620
+Georgia,3/24/2020,46.00,1098,Georgia43914,3396,800
+Georgia,3/25/2020,47.00,1393,Georgia43915,4494,1098
+Georgia,4/3/2020,49.00,2,Georgia43924,5887,1393
+Georgia,5/3/2020,51.00,2,Georgia43954,5889,2
+Georgia,6/3/2020,53.00,3,Georgia43985,5891,2
+Georgia,7/3/2020,55.00,7,Georgia44015,5894,3
+Georgia,8/3/2020,57.00,11,Georgia44046,5901,7
+Georgia,9/3/2020,59.00,17,Georgia44077,5912,11
+Georgia,10/3/2020,61.00,22,Georgia44107,5929,17
+Georgia,11/3/2020,63.00,31,Georgia44138,5951,22
+Georgia,12/3/2020,65.00,31,Georgia44168,5982,31
+Guam,3/15/2020,37.00,3,Guam43905,0,0
+Guam,3/16/2020,38.00,3,Guam43906,3,3
+Guam,3/17/2020,39.00,3,Guam43907,6,3
+Guam,3/18/2020,40.00,8,Guam43908,9,3
+Guam,3/19/2020,41.00,12,Guam43909,17,8
+Guam,3/20/2020,42.00,14,Guam43910,29,12
+Guam,3/21/2020,43.00,15,Guam43911,43,14
+Guam,3/22/2020,44.00,27,Guam43912,58,15
+Guam,3/23/2020,45.00,29,Guam43913,85,27
+Guam,3/24/2020,46.00,32,Guam43914,114,29
+Guam,3/25/2020,47.00,32,Guam43915,146,32
+Hawaii,3/13/2020,35.00,2,Hawaii43903,0,0
+Hawaii,3/14/2020,36.00,4,Hawaii43904,2,2
+Hawaii,3/15/2020,37.00,7,Hawaii43905,6,4
+Hawaii,3/16/2020,38.00,10,Hawaii43906,13,7
+Hawaii,3/17/2020,39.00,14,Hawaii43907,23,10
+Hawaii,3/18/2020,40.00,16,Hawaii43908,37,14
+Hawaii,3/19/2020,41.00,26,Hawaii43909,53,16
+Hawaii,3/20/2020,42.00,37,Hawaii43910,79,26
+Hawaii,3/21/2020,43.00,48,Hawaii43911,116,37
+Hawaii,3/22/2020,44.00,56,Hawaii43912,164,48
+Hawaii,3/23/2020,45.00,77,Hawaii43913,220,56
+Hawaii,3/24/2020,46.00,97,Hawaii43914,297,77
+Hawaii,3/25/2020,47.00,96,Hawaii43915,394,97
+Hawaii,6/3/2020,53.00,1,Hawaii43985,490,96
+Hawaii,7/3/2020,55.00,1,Hawaii44015,491,1
+Hawaii,8/3/2020,57.00,2,Hawaii44046,492,1
+Hawaii,9/3/2020,59.00,2,Hawaii44077,494,2
+Hawaii,10/3/2020,61.00,2,Hawaii44107,496,2
+Hawaii,11/3/2020,63.00,2,Hawaii44138,498,2
+Hawaii,12/3/2020,65.00,2,Hawaii44168,500,2
+Idaho,3/13/2020,35.00,1,Idaho43903,0,0
+Idaho,3/14/2020,36.00,5,Idaho43904,1,1
+Idaho,3/15/2020,37.00,5,Idaho43905,6,5
+Idaho,3/16/2020,38.00,5,Idaho43906,11,5
+Idaho,3/17/2020,39.00,9,Idaho43907,16,5
+Idaho,3/18/2020,40.00,11,Idaho43908,25,9
+Idaho,3/19/2020,41.00,23,Idaho43909,36,11
+Idaho,3/20/2020,42.00,31,Idaho43910,59,23
+Idaho,3/21/2020,43.00,42,Idaho43911,90,31
+Idaho,3/22/2020,44.00,47,Idaho43912,132,42
+Idaho,3/23/2020,45.00,50,Idaho43913,179,47
+Idaho,3/24/2020,46.00,73,Idaho43914,229,50
+Idaho,3/25/2020,47.00,123,Idaho43915,302,73
+Illinois,1/2/2020,1.00,2,Illinois43832,0,0
+Illinois,1/3/2020,2.00,3,Illinois43833,2,2
+Illinois,1/24/2020,6.00,1,Illinois43854,5,3
+Illinois,1/25/2020,7.00,1,Illinois43855,6,1
+Illinois,1/26/2020,8.00,1,Illinois43856,7,1
+Illinois,1/27/2020,9.00,1,Illinois43857,8,1
+Illinois,1/28/2020,10.00,1,Illinois43858,9,1
+Illinois,1/29/2020,11.00,1,Illinois43859,10,1
+Illinois,1/30/2020,12.00,2,Illinois43860,11,1
+Illinois,1/31/2020,13.00,2,Illinois43861,13,2
+Illinois,2/2/2020,14.00,2,Illinois43863,15,2
+Illinois,2/3/2020,15.00,4,Illinois43864,17,2
+Illinois,2/13/2020,16.00,2,Illinois43874,21,4
+Illinois,2/14/2020,17.00,2,Illinois43875,23,2
+Illinois,2/15/2020,18.00,2,Illinois43876,25,2
+Illinois,2/16/2020,19.00,2,Illinois43877,27,2
+Illinois,2/17/2020,20.00,2,Illinois43878,29,2
+Illinois,2/18/2020,21.00,2,Illinois43879,31,2
+Illinois,2/19/2020,22.00,2,Illinois43880,33,2
+Illinois,2/20/2020,23.00,2,Illinois43881,35,2
+Illinois,2/21/2020,24.00,2,Illinois43882,37,2
+Illinois,2/22/2020,25.00,2,Illinois43883,39,2
+Illinois,2/23/2020,26.00,2,Illinois43884,41,2
+Illinois,2/24/2020,27.00,2,Illinois43885,43,2
+Illinois,2/25/2020,28.00,2,Illinois43886,45,2
+Illinois,2/26/2020,29.00,2,Illinois43887,47,2
+Illinois,2/27/2020,30.00,2,Illinois43888,49,2
+Illinois,2/28/2020,31.00,2,Illinois43889,51,2
+Illinois,2/29/2020,32.00,3,Illinois43890,53,2
+Illinois,3/2/2020,33.00,2,Illinois43892,56,3
+Illinois,3/3/2020,34.00,4,Illinois43893,58,2
+Illinois,3/13/2020,35.00,46,Illinois43903,62,4
+Illinois,3/14/2020,36.00,66,Illinois43904,108,46
+Illinois,3/15/2020,37.00,94,Illinois43905,174,66
+Illinois,3/16/2020,38.00,104,Illinois43906,268,94
+Illinois,3/17/2020,39.00,159,Illinois43907,372,104
+Illinois,3/18/2020,40.00,286,Illinois43908,531,159
+Illinois,3/19/2020,41.00,420,Illinois43909,817,286
+Illinois,3/20/2020,42.00,583,Illinois43910,1237,420
+Illinois,3/21/2020,43.00,751,Illinois43911,1820,583
+Illinois,3/22/2020,44.00,1047,Illinois43912,2571,751
+Illinois,3/23/2020,45.00,1285,Illinois43913,3618,1047
+Illinois,3/24/2020,46.00,1591,Illinois43914,4903,1285
+Illinois,3/25/2020,47.00,1933,Illinois43915,6494,1591
+Illinois,4/2/2020,48.00,2,Illinois43923,8427,1933
+Illinois,4/3/2020,49.00,4,Illinois43924,8429,2
+Illinois,5/2/2020,50.00,2,Illinois43953,8433,4
+Illinois,5/3/2020,51.00,5,Illinois43954,8435,2
+Illinois,6/2/2020,52.00,2,Illinois43984,8440,5
+Illinois,6/3/2020,53.00,6,Illinois43985,8442,2
+Illinois,7/2/2020,54.00,2,Illinois44014,8448,6
+Illinois,7/3/2020,55.00,6,Illinois44015,8450,2
+Illinois,8/2/2020,56.00,2,Illinois44045,8456,6
+Illinois,8/3/2020,57.00,7,Illinois44046,8458,2
+Illinois,9/2/2020,58.00,2,Illinois44076,8465,7
+Illinois,9/3/2020,59.00,11,Illinois44077,8467,2
+Illinois,10/2/2020,60.00,2,Illinois44106,8478,11
+Illinois,10/3/2020,61.00,19,Illinois44107,8480,2
+Illinois,11/2/2020,62.00,2,Illinois44137,8499,19
+Illinois,11/3/2020,63.00,25,Illinois44138,8501,2
+Illinois,12/2/2020,64.00,2,Illinois44167,8526,25
+Illinois,12/3/2020,65.00,32,Illinois44168,8528,2
+Indiana,3/13/2020,35.00,12,Indiana43903,0,0
+Indiana,3/14/2020,36.00,15,Indiana43904,12,12
+Indiana,3/15/2020,37.00,19,Indiana43905,27,15
+Indiana,3/16/2020,38.00,24,Indiana43906,46,19
+Indiana,3/17/2020,39.00,30,Indiana43907,70,24
+Indiana,3/18/2020,40.00,39,Indiana43908,100,30
+Indiana,3/19/2020,41.00,56,Indiana43909,139,39
+Indiana,3/20/2020,42.00,79,Indiana43910,195,56
+Indiana,3/21/2020,43.00,126,Indiana43911,274,79
+Indiana,3/22/2020,44.00,201,Indiana43912,400,126
+Indiana,3/23/2020,45.00,259,Indiana43913,601,201
+Indiana,3/24/2020,46.00,366,Indiana43914,860,259
+Indiana,3/25/2020,47.00,479,Indiana43915,1226,366
+Indiana,6/3/2020,53.00,1,Indiana43985,1705,479
+Indiana,7/3/2020,55.00,1,Indiana44015,1706,1
+Indiana,8/3/2020,57.00,2,Indiana44046,1707,1
+Indiana,9/3/2020,59.00,4,Indiana44077,1709,2
+Indiana,10/3/2020,61.00,6,Indiana44107,1713,4
+Indiana,11/3/2020,63.00,11,Indiana44138,1719,6
+Indiana,12/3/2020,65.00,12,Indiana44168,1730,11
+Iowa,3/13/2020,35.00,17,Iowa43903,0,0
+Iowa,3/14/2020,36.00,18,Iowa43904,17,17
+Iowa,3/15/2020,37.00,22,Iowa43905,35,18
+Iowa,3/16/2020,38.00,22,Iowa43906,57,22
+Iowa,3/17/2020,39.00,29,Iowa43907,79,22
+Iowa,3/18/2020,40.00,38,Iowa43908,108,29
+Iowa,3/19/2020,41.00,44,Iowa43909,146,38
+Iowa,3/20/2020,42.00,45,Iowa43910,190,44
+Iowa,3/21/2020,43.00,68,Iowa43911,235,45
+Iowa,3/22/2020,44.00,90,Iowa43912,303,68
+Iowa,3/23/2020,45.00,105,Iowa43913,393,90
+Iowa,3/24/2020,46.00,124,Iowa43914,498,105
+Iowa,3/25/2020,47.00,147,Iowa43915,622,124
+Iowa,8/3/2020,57.00,3,Iowa44046,769,147
+Iowa,9/3/2020,59.00,8,Iowa44077,772,3
+Iowa,10/3/2020,61.00,13,Iowa44107,780,8
+Iowa,11/3/2020,63.00,14,Iowa44138,793,13
+Iowa,12/3/2020,65.00,16,Iowa44168,807,14
+Kansas,3/13/2020,35.00,6,Kansas43903,0,0
+Kansas,3/14/2020,36.00,8,Kansas43904,6,6
+Kansas,3/15/2020,37.00,9,Kansas43905,14,8
+Kansas,3/16/2020,38.00,11,Kansas43906,23,9
+Kansas,3/17/2020,39.00,17,Kansas43907,34,11
+Kansas,3/18/2020,40.00,22,Kansas43908,51,17
+Kansas,3/19/2020,41.00,35,Kansas43909,73,22
+Kansas,3/20/2020,42.00,49,Kansas43910,108,35
+Kansas,3/21/2020,43.00,57,Kansas43911,157,49
+Kansas,3/22/2020,44.00,66,Kansas43912,214,57
+Kansas,3/23/2020,45.00,82,Kansas43913,280,66
+Kansas,3/24/2020,46.00,102,Kansas43914,362,82
+Kansas,3/25/2020,47.00,134,Kansas43915,464,102
+Kansas,7/3/2020,55.00,1,Kansas44015,598,134
+Kansas,8/3/2020,57.00,1,Kansas44046,599,1
+Kansas,9/3/2020,59.00,1,Kansas44077,600,1
+Kansas,10/3/2020,61.00,1,Kansas44107,601,1
+Kansas,11/3/2020,63.00,1,Kansas44138,602,1
+Kansas,12/3/2020,65.00,5,Kansas44168,603,1
+Kentucky,3/13/2020,35.00,11,Kentucky43903,0,0
+Kentucky,3/14/2020,36.00,18,Kentucky43904,11,11
+Kentucky,3/15/2020,37.00,21,Kentucky43905,29,18
+Kentucky,3/16/2020,38.00,22,Kentucky43906,50,21
+Kentucky,3/17/2020,39.00,26,Kentucky43907,72,22
+Kentucky,3/18/2020,40.00,35,Kentucky43908,98,26
+Kentucky,3/19/2020,41.00,47,Kentucky43909,133,35
+Kentucky,3/20/2020,42.00,63,Kentucky43910,180,47
+Kentucky,3/21/2020,43.00,84,Kentucky43911,243,63
+Kentucky,3/22/2020,44.00,103,Kentucky43912,327,84
+Kentucky,3/23/2020,45.00,124,Kentucky43913,430,103
+Kentucky,3/24/2020,46.00,162,Kentucky43914,554,124
+Kentucky,3/25/2020,47.00,203,Kentucky43915,716,162
+Kentucky,6/3/2020,53.00,1,Kentucky43985,919,203
+Kentucky,7/3/2020,55.00,1,Kentucky44015,920,1
+Kentucky,8/3/2020,57.00,4,Kentucky44046,921,1
+Kentucky,9/3/2020,59.00,5,Kentucky44077,925,4
+Kentucky,10/3/2020,61.00,7,Kentucky44107,930,5
+Kentucky,11/3/2020,63.00,7,Kentucky44138,937,7
+Kentucky,12/3/2020,65.00,11,Kentucky44168,944,7
+Louisiana,3/13/2020,35.00,36,Louisiana43903,0,0
+Louisiana,3/14/2020,36.00,77,Louisiana43904,36,36
+Louisiana,3/15/2020,37.00,103,Louisiana43905,113,77
+Louisiana,3/16/2020,38.00,137,Louisiana43906,216,103
+Louisiana,3/17/2020,39.00,196,Louisiana43907,353,137
+Louisiana,3/18/2020,40.00,280,Louisiana43908,549,196
+Louisiana,3/19/2020,41.00,392,Louisiana43909,829,280
+Louisiana,3/20/2020,42.00,537,Louisiana43910,1221,392
+Louisiana,3/21/2020,43.00,763,Louisiana43911,1758,537
+Louisiana,3/22/2020,44.00,837,Louisiana43912,2521,763
+Louisiana,3/23/2020,45.00,1172,Louisiana43913,3358,837
+Louisiana,3/24/2020,46.00,1390,Louisiana43914,4530,1172
+Louisiana,3/25/2020,47.00,1798,Louisiana43915,5920,1390
+Louisiana,9/3/2020,59.00,1,Louisiana44077,7718,1798
+Louisiana,10/3/2020,61.00,6,Louisiana44107,7719,1
+Louisiana,11/3/2020,63.00,13,Louisiana44138,7725,6
+Louisiana,12/3/2020,65.00,14,Louisiana44168,7738,13
+Maine,3/13/2020,35.00,2,Maine43903,0,0
+Maine,3/14/2020,36.00,3,Maine43904,2,2
+Maine,3/15/2020,37.00,12,Maine43905,5,3
+Maine,3/16/2020,38.00,17,Maine43906,17,12
+Maine,3/17/2020,39.00,32,Maine43907,34,17
+Maine,3/18/2020,40.00,43,Maine43908,66,32
+Maine,3/19/2020,41.00,52,Maine43909,109,43
+Maine,3/20/2020,42.00,57,Maine43910,161,52
+Maine,3/21/2020,43.00,70,Maine43911,218,57
+Maine,3/22/2020,44.00,89,Maine43912,288,70
+Maine,3/23/2020,45.00,107,Maine43913,377,89
+Maine,3/24/2020,46.00,123,Maine43914,484,107
+Maine,3/25/2020,47.00,145,Maine43915,607,123
+Maine,12/3/2020,65.00,1,Maine44168,752,145
+Maryland,3/13/2020,35.00,18,Maryland43903,0,0
+Maryland,3/14/2020,36.00,27,Maryland43904,18,18
+Maryland,3/15/2020,37.00,32,Maryland43905,45,27
+Maryland,3/16/2020,38.00,39,Maryland43906,77,32
+Maryland,3/17/2020,39.00,57,Maryland43907,116,39
+Maryland,3/18/2020,40.00,85,Maryland43908,173,57
+Maryland,3/19/2020,41.00,108,Maryland43909,258,85
+Maryland,3/20/2020,42.00,150,Maryland43910,366,108
+Maryland,3/21/2020,43.00,195,Maryland43911,516,150
+Maryland,3/22/2020,44.00,245,Maryland43912,711,195
+Maryland,3/23/2020,45.00,290,Maryland43913,956,245
+Maryland,3/24/2020,46.00,349,Maryland43914,1246,290
+Maryland,3/25/2020,47.00,423,Maryland43915,1595,349
+Maryland,5/3/2020,51.00,3,Maryland43954,2018,423
+Maryland,6/3/2020,53.00,3,Maryland43985,2021,3
+Maryland,7/3/2020,55.00,3,Maryland44015,2024,3
+Maryland,8/3/2020,57.00,5,Maryland44046,2027,3
+Maryland,9/3/2020,59.00,6,Maryland44077,2032,5
+Maryland,10/3/2020,61.00,9,Maryland44107,2038,6
+Maryland,11/3/2020,63.00,13,Maryland44138,2047,9
+Maryland,12/3/2020,65.00,13,Maryland44168,2060,13
+Massachusetts,1/2/2020,1.00,1,Massachusetts43832,0,0
+Massachusetts,1/3/2020,2.00,1,Massachusetts43833,1,1
+Massachusetts,2/2/2020,14.00,1,Massachusetts43863,2,1
+Massachusetts,2/3/2020,15.00,2,Massachusetts43864,3,1
+Massachusetts,2/13/2020,16.00,1,Massachusetts43874,5,2
+Massachusetts,2/14/2020,17.00,1,Massachusetts43875,6,1
+Massachusetts,2/15/2020,18.00,1,Massachusetts43876,7,1
+Massachusetts,2/16/2020,19.00,1,Massachusetts43877,8,1
+Massachusetts,2/17/2020,20.00,1,Massachusetts43878,9,1
+Massachusetts,2/18/2020,21.00,1,Massachusetts43879,10,1
+Massachusetts,2/19/2020,22.00,1,Massachusetts43880,11,1
+Massachusetts,2/20/2020,23.00,1,Massachusetts43881,12,1
+Massachusetts,2/21/2020,24.00,1,Massachusetts43882,13,1
+Massachusetts,2/22/2020,25.00,1,Massachusetts43883,14,1
+Massachusetts,2/23/2020,26.00,1,Massachusetts43884,15,1
+Massachusetts,2/24/2020,27.00,1,Massachusetts43885,16,1
+Massachusetts,2/25/2020,28.00,1,Massachusetts43886,17,1
+Massachusetts,2/26/2020,29.00,1,Massachusetts43887,18,1
+Massachusetts,2/27/2020,30.00,1,Massachusetts43888,19,1
+Massachusetts,2/28/2020,31.00,1,Massachusetts43889,20,1
+Massachusetts,2/29/2020,32.00,1,Massachusetts43890,21,1
+Massachusetts,3/2/2020,33.00,1,Massachusetts43892,22,1
+Massachusetts,3/3/2020,34.00,2,Massachusetts43893,23,1
+Massachusetts,3/13/2020,35.00,123,Massachusetts43903,25,2
+Massachusetts,3/14/2020,36.00,138,Massachusetts43904,148,123
+Massachusetts,3/15/2020,37.00,164,Massachusetts43905,286,138
+Massachusetts,3/16/2020,38.00,197,Massachusetts43906,450,164
+Massachusetts,3/17/2020,39.00,218,Massachusetts43907,647,197
+Massachusetts,3/18/2020,40.00,256,Massachusetts43908,865,218
+Massachusetts,3/19/2020,41.00,328,Massachusetts43909,1121,256
+Massachusetts,3/20/2020,42.00,413,Massachusetts43910,1449,328
+Massachusetts,3/21/2020,43.00,525,Massachusetts43911,1862,413
+Massachusetts,3/22/2020,44.00,646,Massachusetts43912,2387,525
+Massachusetts,3/23/2020,45.00,777,Massachusetts43913,3033,646
+Massachusetts,3/24/2020,46.00,1159,Massachusetts43914,3810,777
+Massachusetts,3/25/2020,47.00,1838,Massachusetts43915,4969,1159
+Massachusetts,4/2/2020,48.00,1,Massachusetts43923,6807,1838
+Massachusetts,4/3/2020,49.00,2,Massachusetts43924,6808,1
+Massachusetts,5/2/2020,50.00,1,Massachusetts43953,6810,2
+Massachusetts,5/3/2020,51.00,3,Massachusetts43954,6811,1
+Massachusetts,6/2/2020,52.00,1,Massachusetts43984,6814,3
+Massachusetts,6/3/2020,53.00,8,Massachusetts43985,6815,1
+Massachusetts,7/2/2020,54.00,1,Massachusetts44014,6823,8
+Massachusetts,7/3/2020,55.00,13,Massachusetts44015,6824,1
+Massachusetts,8/2/2020,56.00,1,Massachusetts44045,6837,13
+Massachusetts,8/3/2020,57.00,28,Massachusetts44046,6838,1
+Massachusetts,9/2/2020,58.00,1,Massachusetts44076,6866,28
+Massachusetts,9/3/2020,59.00,41,Massachusetts44077,6867,1
+Massachusetts,10/2/2020,60.00,1,Massachusetts44106,6908,41
+Massachusetts,10/3/2020,61.00,92,Massachusetts44107,6909,1
+Massachusetts,11/2/2020,62.00,1,Massachusetts44137,7001,92
+Massachusetts,11/3/2020,63.00,95,Massachusetts44138,7002,1
+Massachusetts,12/2/2020,64.00,1,Massachusetts44167,7097,95
+Massachusetts,12/3/2020,65.00,108,Massachusetts44168,7098,1
+Michigan,3/13/2020,35.00,25,Michigan43903,0,0
+Michigan,3/14/2020,36.00,33,Michigan43904,25,25
+Michigan,3/15/2020,37.00,53,Michigan43905,58,33
+Michigan,3/16/2020,38.00,54,Michigan43906,111,53
+Michigan,3/17/2020,39.00,65,Michigan43907,165,54
+Michigan,3/18/2020,40.00,80,Michigan43908,230,65
+Michigan,3/19/2020,41.00,334,Michigan43909,310,80
+Michigan,3/20/2020,42.00,548,Michigan43910,644,334
+Michigan,3/21/2020,43.00,787,Michigan43911,1192,548
+Michigan,3/22/2020,44.00,1033,Michigan43912,1979,787
+Michigan,3/23/2020,45.00,1324,Michigan43913,3012,1033
+Michigan,3/24/2020,46.00,1783,Michigan43914,4336,1324
+Michigan,3/25/2020,47.00,2286,Michigan43915,6119,1783
+Michigan,10/3/2020,61.00,2,Michigan44107,8405,2286
+Michigan,11/3/2020,63.00,2,Michigan44138,8407,2
+Michigan,12/3/2020,65.00,12,Michigan44168,8409,2
+Minnesota,3/13/2020,35.00,14,Minnesota43903,0,0
+Minnesota,3/14/2020,36.00,21,Minnesota43904,14,14
+Minnesota,3/15/2020,37.00,35,Minnesota43905,35,21
+Minnesota,3/16/2020,38.00,54,Minnesota43906,70,35
+Minnesota,3/17/2020,39.00,60,Minnesota43907,124,54
+Minnesota,3/18/2020,40.00,77,Minnesota43908,184,60
+Minnesota,3/19/2020,41.00,89,Minnesota43909,261,77
+Minnesota,3/20/2020,42.00,115,Minnesota43910,350,89
+Minnesota,3/21/2020,43.00,138,Minnesota43911,465,115
+Minnesota,3/22/2020,44.00,171,Minnesota43912,603,138
+Minnesota,3/23/2020,45.00,235,Minnesota43913,774,171
+Minnesota,3/24/2020,46.00,264,Minnesota43914,1009,235
+Minnesota,3/25/2020,47.00,289,Minnesota43915,1273,264
+Minnesota,6/3/2020,53.00,1,Minnesota43985,1562,289
+Minnesota,7/3/2020,55.00,1,Minnesota44015,1563,1
+Minnesota,8/3/2020,57.00,2,Minnesota44046,1564,1
+Minnesota,9/3/2020,59.00,2,Minnesota44077,1566,2
+Minnesota,10/3/2020,61.00,3,Minnesota44107,1568,2
+Minnesota,11/3/2020,63.00,5,Minnesota44138,1571,3
+Minnesota,12/3/2020,65.00,9,Minnesota44168,1576,5
+Mississippi,3/13/2020,35.00,6,Mississippi43903,0,0
+Mississippi,3/14/2020,36.00,6,Mississippi43904,6,6
+Mississippi,3/15/2020,37.00,10,Mississippi43905,12,6
+Mississippi,3/16/2020,38.00,12,Mississippi43906,22,10
+Mississippi,3/17/2020,39.00,21,Mississippi43907,34,12
+Mississippi,3/18/2020,40.00,34,Mississippi43908,55,21
+Mississippi,3/19/2020,41.00,50,Mississippi43909,89,34
+Mississippi,3/20/2020,42.00,80,Mississippi43910,139,50
+Mississippi,3/21/2020,43.00,140,Mississippi43911,219,80
+Mississippi,3/22/2020,44.00,207,Mississippi43912,359,140
+Mississippi,3/23/2020,45.00,249,Mississippi43913,566,207
+Mississippi,3/24/2020,46.00,320,Mississippi43914,815,249
+Mississippi,3/25/2020,47.00,377,Mississippi43915,1135,320
+Mississippi,11/3/2020,63.00,1,Mississippi44138,1512,377
+Mississippi,12/3/2020,65.00,1,Mississippi44168,1513,1
+Missouri,3/13/2020,35.00,4,Missouri43903,0,0
+Missouri,3/14/2020,36.00,5,Missouri43904,4,4
+Missouri,3/15/2020,37.00,5,Missouri43905,9,5
+Missouri,3/16/2020,38.00,9,Missouri43906,14,5
+Missouri,3/17/2020,39.00,16,Missouri43907,23,9
+Missouri,3/18/2020,40.00,21,Missouri43908,39,16
+Missouri,3/19/2020,41.00,35,Missouri43909,60,21
+Missouri,3/20/2020,42.00,73,Missouri43910,95,35
+Missouri,3/21/2020,43.00,93,Missouri43911,168,73
+Missouri,3/22/2020,44.00,130,Missouri43912,261,93
+Missouri,3/23/2020,45.00,183,Missouri43913,391,130
+Missouri,3/24/2020,46.00,257,Missouri43914,574,183
+Missouri,3/25/2020,47.00,383,Missouri43915,831,257
+Missouri,7/3/2020,55.00,1,Missouri44015,1214,383
+Missouri,8/3/2020,57.00,1,Missouri44046,1215,1
+Missouri,9/3/2020,59.00,1,Missouri44077,1216,1
+Missouri,10/3/2020,61.00,1,Missouri44107,1217,1
+Missouri,11/3/2020,63.00,1,Missouri44138,1218,1
+Missouri,12/3/2020,65.00,2,Missouri44168,1219,1
+Montana,3/13/2020,35.00,4,Montana43903,0,0
+Montana,3/14/2020,36.00,6,Montana43904,4,4
+Montana,3/15/2020,37.00,6,Montana43905,10,6
+Montana,3/16/2020,38.00,8,Montana43906,16,6
+Montana,3/17/2020,39.00,8,Montana43907,24,8
+Montana,3/18/2020,40.00,12,Montana43908,32,8
+Montana,3/19/2020,41.00,19,Montana43909,44,12
+Montana,3/20/2020,42.00,19,Montana43910,63,19
+Montana,3/21/2020,43.00,29,Montana43911,82,19
+Montana,3/22/2020,44.00,34,Montana43912,111,29
+Montana,3/23/2020,45.00,45,Montana43913,145,34
+Montana,3/24/2020,46.00,51,Montana43914,190,45
+Montana,3/25/2020,47.00,65,Montana43915,241,51
+Nebraska,1/3/2020,2.00,13,Nebraska43833,0,0
+Nebraska,2/3/2020,15.00,13,Nebraska43864,13,13
+Nebraska,2/17/2020,20.00,10,Nebraska43878,26,13
+Nebraska,2/18/2020,21.00,10,Nebraska43879,36,10
+Nebraska,2/19/2020,22.00,10,Nebraska43880,46,10
+Nebraska,2/20/2020,23.00,11,Nebraska43881,56,10
+Nebraska,2/21/2020,24.00,11,Nebraska43882,67,11
+Nebraska,2/22/2020,25.00,11,Nebraska43883,78,11
+Nebraska,2/23/2020,26.00,11,Nebraska43884,89,11
+Nebraska,2/24/2020,27.00,12,Nebraska43885,100,11
+Nebraska,2/25/2020,28.00,13,Nebraska43886,112,12
+Nebraska,2/26/2020,29.00,13,Nebraska43887,125,13
+Nebraska,2/27/2020,30.00,13,Nebraska43888,138,13
+Nebraska,2/28/2020,31.00,13,Nebraska43889,151,13
+Nebraska,2/29/2020,32.00,13,Nebraska43890,164,13
+Nebraska,3/3/2020,34.00,13,Nebraska43893,177,13
+Nebraska,3/13/2020,35.00,27,Nebraska43903,190,13
+Nebraska,3/14/2020,36.00,29,Nebraska43904,217,27
+Nebraska,3/15/2020,37.00,31,Nebraska43905,246,29
+Nebraska,3/16/2020,38.00,33,Nebraska43906,277,31
+Nebraska,3/17/2020,39.00,36,Nebraska43907,310,33
+Nebraska,3/18/2020,40.00,43,Nebraska43908,346,36
+Nebraska,3/19/2020,41.00,47,Nebraska43909,389,43
+Nebraska,3/20/2020,42.00,53,Nebraska43910,436,47
+Nebraska,3/21/2020,43.00,61,Nebraska43911,489,53
+Nebraska,3/22/2020,44.00,62,Nebraska43912,550,61
+Nebraska,3/23/2020,45.00,73,Nebraska43913,612,62
+Nebraska,3/24/2020,46.00,77,Nebraska43914,685,73
+Nebraska,3/25/2020,47.00,84,Nebraska43915,762,77
+Nebraska,4/3/2020,49.00,13,Nebraska43924,846,84
+Nebraska,5/3/2020,51.00,13,Nebraska43954,859,13
+Nebraska,6/3/2020,53.00,14,Nebraska43985,872,13
+Nebraska,7/3/2020,55.00,14,Nebraska44015,886,14
+Nebraska,8/3/2020,57.00,16,Nebraska44046,900,14
+Nebraska,9/3/2020,59.00,16,Nebraska44077,916,16
+Nebraska,10/3/2020,61.00,17,Nebraska44107,932,16
+Nebraska,11/3/2020,63.00,23,Nebraska44138,949,17
+Nebraska,12/3/2020,65.00,24,Nebraska44168,972,23
+Nevada,3/13/2020,35.00,19,Nevada43903,0,0
+Nevada,3/14/2020,36.00,21,Nevada43904,19,19
+Nevada,3/15/2020,37.00,26,Nevada43905,40,21
+Nevada,3/16/2020,38.00,45,Nevada43906,66,26
+Nevada,3/17/2020,39.00,55,Nevada43907,111,45
+Nevada,3/18/2020,40.00,82,Nevada43908,166,55
+Nevada,3/19/2020,41.00,99,Nevada43909,248,82
+Nevada,3/20/2020,42.00,165,Nevada43910,347,99
+Nevada,3/21/2020,43.00,165,Nevada43911,512,165
+Nevada,3/22/2020,44.00,190,Nevada43912,677,165
+Nevada,3/23/2020,45.00,265,Nevada43913,867,190
+Nevada,3/24/2020,46.00,383,Nevada43914,1132,265
+Nevada,3/25/2020,47.00,406,Nevada43915,1515,383
+Nevada,5/3/2020,51.00,2,Nevada43954,1921,406
+Nevada,6/3/2020,53.00,2,Nevada43985,1923,2
+Nevada,7/3/2020,55.00,2,Nevada44015,1925,2
+Nevada,8/3/2020,57.00,4,Nevada44046,1927,2
+Nevada,9/3/2020,59.00,4,Nevada44077,1931,4
+Nevada,10/3/2020,61.00,4,Nevada44107,1935,4
+Nevada,11/3/2020,63.00,7,Nevada44138,1939,4
+Nevada,12/3/2020,65.00,11,Nevada44168,1946,7
+New Hampshire,2/3/2020,15.00,1,New Hampshire43864,0,0
+New Hampshire,3/3/2020,34.00,2,New Hampshire43893,1,1
+New Hampshire,3/13/2020,35.00,7,New Hampshire43903,3,2
+New Hampshire,3/14/2020,36.00,7,New Hampshire43904,10,7
+New Hampshire,3/15/2020,37.00,13,New Hampshire43905,17,7
+New Hampshire,3/16/2020,38.00,17,New Hampshire43906,30,13
+New Hampshire,3/17/2020,39.00,26,New Hampshire43907,47,17
+New Hampshire,3/18/2020,40.00,39,New Hampshire43908,73,26
+New Hampshire,3/19/2020,41.00,44,New Hampshire43909,112,39
+New Hampshire,3/20/2020,42.00,55,New Hampshire43910,156,44
+New Hampshire,3/21/2020,43.00,65,New Hampshire43911,211,55
+New Hampshire,3/22/2020,44.00,78,New Hampshire43912,276,65
+New Hampshire,3/23/2020,45.00,101,New Hampshire43913,354,78
+New Hampshire,3/24/2020,46.00,108,New Hampshire43914,455,101
+New Hampshire,3/25/2020,47.00,137,New Hampshire43915,563,108
+New Hampshire,4/3/2020,49.00,2,New Hampshire43924,700,137
+New Hampshire,5/3/2020,51.00,2,New Hampshire43954,702,2
+New Hampshire,6/3/2020,53.00,2,New Hampshire43985,704,2
+New Hampshire,7/3/2020,55.00,4,New Hampshire44015,706,2
+New Hampshire,8/3/2020,57.00,4,New Hampshire44046,710,4
+New Hampshire,9/3/2020,59.00,4,New Hampshire44077,714,4
+New Hampshire,10/3/2020,61.00,5,New Hampshire44107,718,4
+New Hampshire,11/3/2020,63.00,5,New Hampshire44138,723,5
+New Hampshire,12/3/2020,65.00,6,New Hampshire44168,728,5
+New Jersey,3/13/2020,35.00,50,New Jersey43903,0,0
+New Jersey,3/14/2020,36.00,75,New Jersey43904,50,50
+New Jersey,3/15/2020,37.00,98,New Jersey43905,125,75
+New Jersey,3/16/2020,38.00,176,New Jersey43906,223,98
+New Jersey,3/17/2020,39.00,268,New Jersey43907,399,176
+New Jersey,3/18/2020,40.00,427,New Jersey43908,667,268
+New Jersey,3/19/2020,41.00,735,New Jersey43909,1094,427
+New Jersey,3/20/2020,42.00,896,New Jersey43910,1829,735
+New Jersey,3/21/2020,43.00,1336,New Jersey43911,2725,896
+New Jersey,3/22/2020,44.00,1914,New Jersey43912,4061,1336
+New Jersey,3/23/2020,45.00,2844,New Jersey43913,5975,1914
+New Jersey,3/24/2020,46.00,3675,New Jersey43914,8819,2844
+New Jersey,3/25/2020,47.00,4402,New Jersey43915,12494,3675
+New Jersey,4/3/2020,49.00,1,New Jersey43924,16896,4402
+New Jersey,5/3/2020,51.00,2,New Jersey43954,16897,1
+New Jersey,6/3/2020,53.00,4,New Jersey43985,16899,2
+New Jersey,7/3/2020,55.00,4,New Jersey44015,16903,4
+New Jersey,8/3/2020,57.00,6,New Jersey44046,16907,4
+New Jersey,9/3/2020,59.00,11,New Jersey44077,16913,6
+New Jersey,10/3/2020,61.00,15,New Jersey44107,16924,11
+New Jersey,11/3/2020,63.00,23,New Jersey44138,16939,15
+New Jersey,12/3/2020,65.00,29,New Jersey44168,16962,23
+New Mexico,3/13/2020,35.00,10,New Mexico43903,0,0
+New Mexico,3/14/2020,36.00,13,New Mexico43904,10,10
+New Mexico,3/15/2020,37.00,17,New Mexico43905,23,13
+New Mexico,3/16/2020,38.00,21,New Mexico43906,40,17
+New Mexico,3/17/2020,39.00,23,New Mexico43907,61,21
+New Mexico,3/18/2020,40.00,28,New Mexico43908,84,23
+New Mexico,3/19/2020,41.00,35,New Mexico43909,112,28
+New Mexico,3/20/2020,42.00,43,New Mexico43910,147,35
+New Mexico,3/21/2020,43.00,57,New Mexico43911,190,43
+New Mexico,3/22/2020,44.00,65,New Mexico43912,247,57
+New Mexico,3/23/2020,45.00,83,New Mexico43913,312,65
+New Mexico,3/24/2020,46.00,100,New Mexico43914,395,83
+New Mexico,3/25/2020,47.00,113,New Mexico43915,495,100
+New Mexico,11/3/2020,63.00,4,New Mexico44138,608,113
+New Mexico,12/3/2020,65.00,6,New Mexico44168,612,4
+New York,1/3/2020,2.00,1,New York43833,0,0
+New York,2/3/2020,15.00,1,New York43864,1,1
+New York,3/3/2020,34.00,2,New York43893,2,1
+New York,3/13/2020,35.00,421,New York43903,4,2
+New York,3/14/2020,36.00,610,New York43904,425,421
+New York,3/15/2020,37.00,732,New York43905,1035,610
+New York,3/16/2020,38.00,950,New York43906,1767,732
+New York,3/17/2020,39.00,1374,New York43907,2717,950
+New York,3/18/2020,40.00,2382,New York43908,4091,1374
+New York,3/19/2020,41.00,4152,New York43909,6473,2382
+New York,3/20/2020,42.00,7102,New York43910,10625,4152
+New York,3/21/2020,43.00,10356,New York43911,17727,7102
+New York,3/22/2020,44.00,15168,New York43912,28083,10356
+New York,3/23/2020,45.00,20875,New York43913,43251,15168
+New York,3/24/2020,46.00,25666,New York43914,64126,20875
+New York,3/25/2020,47.00,33067,New York43915,89792,25666
+New York,4/3/2020,49.00,11,New York43924,122859,33067
+New York,5/3/2020,51.00,22,New York43954,122870,11
+New York,6/3/2020,53.00,44,New York43985,122892,22
+New York,7/3/2020,55.00,89,New York44015,122936,44
+New York,8/3/2020,57.00,106,New York44046,123025,89
+New York,9/3/2020,59.00,142,New York44077,123131,106
+New York,10/3/2020,61.00,173,New York44107,123273,142
+New York,11/3/2020,63.00,217,New York44138,123446,173
+New York,12/3/2020,65.00,326,New York44168,123663,217
+North Carolina,3/3/2020,34.00,1,North Carolina43893,0,0
+North Carolina,3/13/2020,35.00,18,North Carolina43903,1,1
+North Carolina,3/14/2020,36.00,25,North Carolina43904,19,18
+North Carolina,3/15/2020,37.00,32,North Carolina43905,44,25
+North Carolina,3/16/2020,38.00,34,North Carolina43906,76,32
+North Carolina,3/17/2020,39.00,42,North Carolina43907,110,34
+North Carolina,3/18/2020,40.00,66,North Carolina43908,152,42
+North Carolina,3/19/2020,41.00,104,North Carolina43909,218,66
+North Carolina,3/20/2020,42.00,144,North Carolina43910,322,104
+North Carolina,3/21/2020,43.00,184,North Carolina43911,466,144
+North Carolina,3/22/2020,44.00,269,North Carolina43912,650,184
+North Carolina,3/23/2020,45.00,303,North Carolina43913,919,269
+North Carolina,3/24/2020,46.00,399,North Carolina43914,1222,303
+North Carolina,3/25/2020,47.00,564,North Carolina43915,1621,399
+North Carolina,4/3/2020,49.00,1,North Carolina43924,2185,564
+North Carolina,5/3/2020,51.00,1,North Carolina43954,2186,1
+North Carolina,6/3/2020,53.00,2,North Carolina43985,2187,1
+North Carolina,7/3/2020,55.00,2,North Carolina44015,2189,2
+North Carolina,8/3/2020,57.00,2,North Carolina44046,2191,2
+North Carolina,9/3/2020,59.00,7,North Carolina44077,2193,2
+North Carolina,10/3/2020,61.00,7,North Carolina44107,2200,7
+North Carolina,11/3/2020,63.00,8,North Carolina44138,2207,7
+North Carolina,12/3/2020,65.00,16,North Carolina44168,2215,8
+North Dakota,3/13/2020,35.00,1,North Dakota43903,0,0
+North Dakota,3/14/2020,36.00,1,North Dakota43904,1,1
+North Dakota,3/15/2020,37.00,1,North Dakota43905,2,1
+North Dakota,3/16/2020,38.00,1,North Dakota43906,3,1
+North Dakota,3/17/2020,39.00,5,North Dakota43907,4,1
+North Dakota,3/18/2020,40.00,7,North Dakota43908,9,5
+North Dakota,3/19/2020,41.00,19,North Dakota43909,16,7
+North Dakota,3/20/2020,42.00,27,North Dakota43910,35,19
+North Dakota,3/21/2020,43.00,28,North Dakota43911,62,27
+North Dakota,3/22/2020,44.00,30,North Dakota43912,90,28
+North Dakota,3/23/2020,45.00,32,North Dakota43913,120,30
+North Dakota,3/24/2020,46.00,37,North Dakota43914,152,32
+North Dakota,3/25/2020,47.00,45,North Dakota43915,189,37
+North Dakota,11/3/2020,63.00,1,North Dakota44138,234,45
+North Dakota,12/3/2020,65.00,1,North Dakota44168,235,1
+Ohio,3/13/2020,35.00,13,Ohio43903,0,0
+Ohio,3/14/2020,36.00,26,Ohio43904,13,13
+Ohio,3/15/2020,37.00,37,Ohio43905,39,26
+Ohio,3/16/2020,38.00,50,Ohio43906,76,37
+Ohio,3/17/2020,39.00,67,Ohio43907,126,50
+Ohio,3/18/2020,40.00,90,Ohio43908,193,67
+Ohio,3/19/2020,41.00,120,Ohio43909,283,90
+Ohio,3/20/2020,42.00,169,Ohio43910,403,120
+Ohio,3/21/2020,43.00,247,Ohio43911,572,169
+Ohio,3/22/2020,44.00,351,Ohio43912,819,247
+Ohio,3/23/2020,45.00,444,Ohio43913,1170,351
+Ohio,3/24/2020,46.00,564,Ohio43914,1614,444
+Ohio,3/25/2020,47.00,707,Ohio43915,2178,564
+Ohio,9/3/2020,59.00,3,Ohio44077,2885,707
+Ohio,10/3/2020,61.00,3,Ohio44107,2888,3
+Ohio,11/3/2020,63.00,4,Ohio44138,2891,3
+Ohio,12/3/2020,65.00,5,Ohio44168,2895,4
+Oklahoma,3/13/2020,35.00,3,Oklahoma43903,0,0
+Oklahoma,3/14/2020,36.00,4,Oklahoma43904,3,3
+Oklahoma,3/15/2020,37.00,8,Oklahoma43905,7,4
+Oklahoma,3/16/2020,38.00,10,Oklahoma43906,15,8
+Oklahoma,3/17/2020,39.00,18,Oklahoma43907,25,10
+Oklahoma,3/18/2020,40.00,29,Oklahoma43908,43,18
+Oklahoma,3/19/2020,41.00,44,Oklahoma43909,72,29
+Oklahoma,3/20/2020,42.00,49,Oklahoma43910,116,44
+Oklahoma,3/21/2020,43.00,53,Oklahoma43911,165,49
+Oklahoma,3/22/2020,44.00,67,Oklahoma43912,218,53
+Oklahoma,3/23/2020,45.00,81,Oklahoma43913,285,67
+Oklahoma,3/24/2020,46.00,106,Oklahoma43914,366,81
+Oklahoma,3/25/2020,47.00,164,Oklahoma43915,472,106
+Oklahoma,6/3/2020,53.00,1,Oklahoma43985,636,164
+Oklahoma,7/3/2020,55.00,1,Oklahoma44015,637,1
+Oklahoma,8/3/2020,57.00,1,Oklahoma44046,638,1
+Oklahoma,9/3/2020,59.00,1,Oklahoma44077,639,1
+Oklahoma,10/3/2020,61.00,2,Oklahoma44107,640,1
+Oklahoma,11/3/2020,63.00,2,Oklahoma44138,642,2
+Oklahoma,12/3/2020,65.00,2,Oklahoma44168,644,2
+Oregon,1/3/2020,2.00,2,Oregon43833,0,0
+Oregon,2/3/2020,15.00,2,Oregon43864,2,2
+Oregon,2/28/2020,31.00,1,Oregon43889,4,2
+Oregon,2/29/2020,32.00,1,Oregon43890,5,1
+Oregon,3/3/2020,34.00,2,Oregon43893,6,1
+Oregon,3/13/2020,35.00,30,Oregon43903,8,2
+Oregon,3/14/2020,36.00,36,Oregon43904,38,30
+Oregon,3/15/2020,37.00,39,Oregon43905,74,36
+Oregon,3/16/2020,38.00,46,Oregon43906,113,39
+Oregon,3/17/2020,39.00,66,Oregon43907,159,46
+Oregon,3/18/2020,40.00,74,Oregon43908,225,66
+Oregon,3/19/2020,41.00,87,Oregon43909,299,74
+Oregon,3/20/2020,42.00,114,Oregon43910,386,87
+Oregon,3/21/2020,43.00,137,Oregon43911,500,114
+Oregon,3/22/2020,44.00,161,Oregon43912,637,137
+Oregon,3/23/2020,45.00,191,Oregon43913,798,161
+Oregon,3/24/2020,46.00,209,Oregon43914,989,191
+Oregon,3/25/2020,47.00,266,Oregon43915,1198,209
+Oregon,4/3/2020,49.00,2,Oregon43924,1464,266
+Oregon,5/3/2020,51.00,2,Oregon43954,1466,2
+Oregon,6/3/2020,53.00,2,Oregon43985,1468,2
+Oregon,7/3/2020,55.00,6,Oregon44015,1470,2
+Oregon,8/3/2020,57.00,13,Oregon44046,1476,6
+Oregon,9/3/2020,59.00,13,Oregon44077,1489,13
+Oregon,10/3/2020,61.00,14,Oregon44107,1502,13
+Oregon,11/3/2020,63.00,20,Oregon44138,1516,14
+Oregon,12/3/2020,65.00,30,Oregon44168,1536,20
+Pennsylvania,3/13/2020,35.00,41,Pennsylvania43903,0,0
+Pennsylvania,3/14/2020,36.00,47,Pennsylvania43904,41,41
+Pennsylvania,3/15/2020,37.00,68,Pennsylvania43905,88,47
+Pennsylvania,3/16/2020,38.00,81,Pennsylvania43906,156,68
+Pennsylvania,3/17/2020,39.00,101,Pennsylvania43907,237,81
+Pennsylvania,3/18/2020,40.00,139,Pennsylvania43908,338,101
+Pennsylvania,3/19/2020,41.00,187,Pennsylvania43909,477,139
+Pennsylvania,3/20/2020,42.00,269,Pennsylvania43910,664,187
+Pennsylvania,3/21/2020,43.00,388,Pennsylvania43911,933,269
+Pennsylvania,3/22/2020,44.00,504,Pennsylvania43912,1321,388
+Pennsylvania,3/23/2020,45.00,644,Pennsylvania43913,1825,504
+Pennsylvania,3/24/2020,46.00,851,Pennsylvania43914,2469,644
+Pennsylvania,3/25/2020,47.00,1151,Pennsylvania43915,3320,851
+Pennsylvania,6/3/2020,53.00,2,Pennsylvania43985,4471,1151
+Pennsylvania,7/3/2020,55.00,4,Pennsylvania44015,4473,2
+Pennsylvania,8/3/2020,57.00,6,Pennsylvania44046,4477,4
+Pennsylvania,9/3/2020,59.00,10,Pennsylvania44077,4483,6
+Pennsylvania,10/3/2020,61.00,12,Pennsylvania44107,4493,10
+Pennsylvania,11/3/2020,63.00,16,Pennsylvania44138,4505,12
+Pennsylvania,12/3/2020,65.00,22,Pennsylvania44168,4521,16
+Puerto Rico,3/13/2020,35.00,3,Puerto Rico43903,0,0
+Puerto Rico,3/14/2020,36.00,4,Puerto Rico43904,3,3
+Puerto Rico,3/15/2020,37.00,5,Puerto Rico43905,7,4
+Puerto Rico,3/16/2020,38.00,5,Puerto Rico43906,12,5
+Puerto Rico,3/17/2020,39.00,5,Puerto Rico43907,17,5
+Puerto Rico,3/18/2020,40.00,5,Puerto Rico43908,22,5
+Puerto Rico,3/19/2020,41.00,6,Puerto Rico43909,27,5
+Puerto Rico,3/20/2020,42.00,14,Puerto Rico43910,33,6
+Puerto Rico,3/21/2020,43.00,21,Puerto Rico43911,47,14
+Puerto Rico,3/22/2020,44.00,23,Puerto Rico43912,68,21
+Puerto Rico,3/23/2020,45.00,31,Puerto Rico43913,91,23
+Puerto Rico,3/24/2020,46.00,52,Puerto Rico43914,122,31
+Puerto Rico,3/25/2020,47.00,51,Puerto Rico43915,174,52
+Rhode Island,1/3/2020,2.00,2,Rhode Island43833,0,0
+Rhode Island,2/3/2020,15.00,2,Rhode Island43864,2,2
+Rhode Island,3/3/2020,34.00,2,Rhode Island43893,4,2
+Rhode Island,3/13/2020,35.00,20,Rhode Island43903,6,2
+Rhode Island,3/14/2020,36.00,20,Rhode Island43904,26,20
+Rhode Island,3/15/2020,37.00,20,Rhode Island43905,46,20
+Rhode Island,3/16/2020,38.00,21,Rhode Island43906,66,20
+Rhode Island,3/17/2020,39.00,23,Rhode Island43907,87,21
+Rhode Island,3/18/2020,40.00,33,Rhode Island43908,110,23
+Rhode Island,3/19/2020,41.00,44,Rhode Island43909,143,33
+Rhode Island,3/20/2020,42.00,44,Rhode Island43910,187,44
+Rhode Island,3/21/2020,43.00,66,Rhode Island43911,231,44
+Rhode Island,3/22/2020,44.00,83,Rhode Island43912,297,66
+Rhode Island,3/23/2020,45.00,106,Rhode Island43913,380,83
+Rhode Island,3/24/2020,46.00,124,Rhode Island43914,486,106
+Rhode Island,3/25/2020,47.00,172,Rhode Island43915,610,124
+Rhode Island,4/3/2020,49.00,2,Rhode Island43924,782,172
+Rhode Island,5/3/2020,51.00,2,Rhode Island43954,784,2
+Rhode Island,6/3/2020,53.00,3,Rhode Island43985,786,2
+Rhode Island,7/3/2020,55.00,3,Rhode Island44015,789,3
+Rhode Island,8/3/2020,57.00,3,Rhode Island44046,792,3
+Rhode Island,9/3/2020,59.00,3,Rhode Island44077,795,3
+Rhode Island,10/3/2020,61.00,5,Rhode Island44107,798,3
+Rhode Island,11/3/2020,63.00,5,Rhode Island44138,803,5
+Rhode Island,12/3/2020,65.00,5,Rhode Island44168,808,5
+South Carolina,3/13/2020,35.00,13,South Carolina43903,0,0
+South Carolina,3/14/2020,36.00,19,South Carolina43904,13,13
+South Carolina,3/15/2020,37.00,28,South Carolina43905,32,19
+South Carolina,3/16/2020,38.00,33,South Carolina43906,60,28
+South Carolina,3/17/2020,39.00,47,South Carolina43907,93,33
+South Carolina,3/18/2020,40.00,60,South Carolina43908,140,47
+South Carolina,3/19/2020,41.00,81,South Carolina43909,200,60
+South Carolina,3/20/2020,42.00,126,South Carolina43910,281,81
+South Carolina,3/21/2020,43.00,172,South Carolina43911,407,126
+South Carolina,3/22/2020,44.00,194,South Carolina43912,579,172
+South Carolina,3/23/2020,45.00,299,South Carolina43913,773,194
+South Carolina,3/24/2020,46.00,342,South Carolina43914,1072,299
+South Carolina,3/25/2020,47.00,425,South Carolina43915,1414,342
+South Carolina,6/3/2020,53.00,2,South Carolina43985,1839,425
+South Carolina,7/3/2020,55.00,2,South Carolina44015,1841,2
+South Carolina,8/3/2020,57.00,6,South Carolina44046,1843,2
+South Carolina,9/3/2020,59.00,7,South Carolina44077,1849,6
+South Carolina,10/3/2020,61.00,9,South Carolina44107,1856,7
+South Carolina,11/3/2020,63.00,10,South Carolina44138,1865,9
+South Carolina,12/3/2020,65.00,12,South Carolina44168,1875,10
+South Dakota,3/13/2020,35.00,9,South Dakota43903,0,0
+South Dakota,3/14/2020,36.00,9,South Dakota43904,9,9
+South Dakota,3/15/2020,37.00,9,South Dakota43905,18,9
+South Dakota,3/16/2020,38.00,10,South Dakota43906,27,9
+South Dakota,3/17/2020,39.00,11,South Dakota43907,37,10
+South Dakota,3/18/2020,40.00,11,South Dakota43908,48,11
+South Dakota,3/19/2020,41.00,14,South Dakota43909,59,11
+South Dakota,3/20/2020,42.00,14,South Dakota43910,73,14
+South Dakota,3/21/2020,43.00,14,South Dakota43911,87,14
+South Dakota,3/22/2020,44.00,21,South Dakota43912,101,14
+South Dakota,3/23/2020,45.00,28,South Dakota43913,122,21
+South Dakota,3/24/2020,46.00,30,South Dakota43914,150,28
+South Dakota,3/25/2020,47.00,41,South Dakota43915,180,30
+South Dakota,10/3/2020,61.00,5,South Dakota44107,221,41
+South Dakota,11/3/2020,63.00,8,South Dakota44138,226,5
+South Dakota,12/3/2020,65.00,8,South Dakota44168,234,8
+Tennessee,3/13/2020,35.00,26,Tennessee43903,0,0
+Tennessee,3/14/2020,36.00,32,Tennessee43904,26,26
+Tennessee,3/15/2020,37.00,39,Tennessee43905,58,32
+Tennessee,3/16/2020,38.00,52,Tennessee43906,97,39
+Tennessee,3/17/2020,39.00,73,Tennessee43907,149,52
+Tennessee,3/18/2020,40.00,98,Tennessee43908,222,73
+Tennessee,3/19/2020,41.00,155,Tennessee43909,320,98
+Tennessee,3/20/2020,42.00,237,Tennessee43910,475,155
+Tennessee,3/21/2020,43.00,312,Tennessee43911,712,237
+Tennessee,3/22/2020,44.00,424,Tennessee43912,1024,312
+Tennessee,3/23/2020,45.00,522,Tennessee43913,1448,424
+Tennessee,3/24/2020,46.00,754,Tennessee43914,1970,522
+Tennessee,3/25/2020,47.00,837,Tennessee43915,2724,754
+Tennessee,5/3/2020,51.00,1,Tennessee43954,3561,837
+Tennessee,6/3/2020,53.00,1,Tennessee43985,3562,1
+Tennessee,7/3/2020,55.00,1,Tennessee44015,3563,1
+Tennessee,8/3/2020,57.00,3,Tennessee44046,3564,1
+Tennessee,9/3/2020,59.00,4,Tennessee44077,3567,3
+Tennessee,10/3/2020,61.00,7,Tennessee44107,3571,4
+Tennessee,11/3/2020,63.00,8,Tennessee44138,3578,7
+Tennessee,12/3/2020,65.00,18,Tennessee44168,3586,8
+Texas,1/3/2020,2.00,11,Texas43833,0,0
+Texas,2/3/2020,15.00,11,Texas43864,11,11
+Texas,2/13/2020,16.00,2,Texas43874,22,11
+Texas,2/14/2020,17.00,2,Texas43875,24,2
+Texas,2/15/2020,18.00,2,Texas43876,26,2
+Texas,2/16/2020,19.00,2,Texas43877,28,2
+Texas,2/17/2020,20.00,2,Texas43878,30,2
+Texas,2/18/2020,21.00,2,Texas43879,32,2
+Texas,2/19/2020,22.00,2,Texas43880,34,2
+Texas,2/20/2020,23.00,2,Texas43881,36,2
+Texas,2/21/2020,24.00,4,Texas43882,38,2
+Texas,2/22/2020,25.00,4,Texas43883,42,4
+Texas,2/23/2020,26.00,4,Texas43884,46,4
+Texas,2/24/2020,27.00,10,Texas43885,50,4
+Texas,2/25/2020,28.00,10,Texas43886,60,10
+Texas,2/26/2020,29.00,10,Texas43887,70,10
+Texas,2/27/2020,30.00,10,Texas43888,80,10
+Texas,2/28/2020,31.00,11,Texas43889,90,10
+Texas,2/29/2020,32.00,11,Texas43890,101,11
+Texas,3/3/2020,34.00,11,Texas43893,112,11
+Texas,3/13/2020,35.00,58,Texas43903,123,11
+Texas,3/14/2020,36.00,69,Texas43904,181,58
+Texas,3/15/2020,37.00,80,Texas43905,250,69
+Texas,3/16/2020,38.00,87,Texas43906,330,80
+Texas,3/17/2020,39.00,106,Texas43907,417,87
+Texas,3/18/2020,40.00,166,Texas43908,523,106
+Texas,3/19/2020,41.00,248,Texas43909,689,166
+Texas,3/20/2020,42.00,377,Texas43910,937,248
+Texas,3/21/2020,43.00,547,Texas43911,1314,377
+Texas,3/22/2020,44.00,632,Texas43912,1861,547
+Texas,3/23/2020,45.00,728,Texas43913,2493,632
+Texas,3/24/2020,46.00,857,Texas43914,3221,728
+Texas,3/25/2020,47.00,1119,Texas43915,4078,857
+Texas,4/3/2020,49.00,12,Texas43924,5197,1119
+Texas,5/3/2020,51.00,16,Texas43954,5209,12
+Texas,6/3/2020,53.00,19,Texas43985,5225,16
+Texas,7/3/2020,55.00,19,Texas44015,5244,19
+Texas,8/3/2020,57.00,23,Texas44046,5263,19
+Texas,9/3/2020,59.00,24,Texas44077,5286,23
+Texas,10/3/2020,61.00,31,Texas44107,5310,24
+Texas,11/3/2020,63.00,33,Texas44138,5341,31
+Texas,12/2/2020,64.00,1,Texas44167,5374,33
+Texas,12/3/2020,65.00,41,Texas44168,5375,1
+Utah,1/3/2020,2.00,1,Utah43833,0,0
+Utah,2/3/2020,15.00,1,Utah43864,1,1
+Utah,2/25/2020,28.00,1,Utah43886,2,1
+Utah,2/26/2020,29.00,1,Utah43887,3,1
+Utah,2/27/2020,30.00,1,Utah43888,4,1
+Utah,2/28/2020,31.00,1,Utah43889,5,1
+Utah,2/29/2020,32.00,1,Utah43890,6,1
+Utah,3/3/2020,34.00,1,Utah43893,7,1
+Utah,3/13/2020,35.00,7,Utah43903,8,1
+Utah,3/14/2020,36.00,21,Utah43904,15,7
+Utah,3/15/2020,37.00,29,Utah43905,36,21
+Utah,3/16/2020,38.00,40,Utah43906,65,29
+Utah,3/17/2020,39.00,51,Utah43907,105,40
+Utah,3/18/2020,40.00,65,Utah43908,156,51
+Utah,3/19/2020,41.00,80,Utah43909,221,65
+Utah,3/20/2020,42.00,112,Utah43910,301,80
+Utah,3/21/2020,43.00,138,Utah43911,413,112
+Utah,3/22/2020,44.00,182,Utah43912,551,138
+Utah,3/23/2020,45.00,257,Utah43913,733,182
+Utah,3/24/2020,46.00,299,Utah43914,990,257
+Utah,3/25/2020,47.00,336,Utah43915,1289,299
+Utah,4/3/2020,49.00,1,Utah43924,1625,336
+Utah,5/3/2020,51.00,1,Utah43954,1626,1
+Utah,6/3/2020,53.00,3,Utah43985,1627,1
+Utah,7/3/2020,55.00,3,Utah44015,1630,3
+Utah,8/3/2020,57.00,3,Utah44046,1633,3
+Utah,9/3/2020,59.00,3,Utah44077,1636,3
+Utah,10/3/2020,61.00,4,Utah44107,1639,3
+Utah,11/3/2020,63.00,5,Utah44138,1643,4
+Utah,12/3/2020,65.00,7,Utah44168,1648,5
+Vermont,3/13/2020,35.00,2,Vermont43903,0,0
+Vermont,3/14/2020,36.00,5,Vermont43904,2,2
+Vermont,3/15/2020,37.00,8,Vermont43905,7,5
+Vermont,3/16/2020,38.00,12,Vermont43906,15,8
+Vermont,3/17/2020,39.00,14,Vermont43907,27,12
+Vermont,3/18/2020,40.00,19,Vermont43908,41,14
+Vermont,3/19/2020,41.00,22,Vermont43909,60,19
+Vermont,3/20/2020,42.00,29,Vermont43910,82,22
+Vermont,3/21/2020,43.00,49,Vermont43911,111,29
+Vermont,3/22/2020,44.00,52,Vermont43912,160,49
+Vermont,3/23/2020,45.00,75,Vermont43913,212,52
+Vermont,3/24/2020,46.00,116,Vermont43914,287,75
+Vermont,3/25/2020,47.00,146,Vermont43915,403,116
+Vermont,7/3/2020,55.00,1,Vermont44015,549,146
+Vermont,8/3/2020,57.00,1,Vermont44046,550,1
+Vermont,9/3/2020,59.00,1,Vermont44077,551,1
+Vermont,10/3/2020,61.00,1,Vermont44107,552,1
+Vermont,11/3/2020,63.00,2,Vermont44138,553,1
+Vermont,12/3/2020,65.00,2,Vermont44168,555,2
+Virgin Islands,3/14/2020,36.00,1,Virgin Islands43904,0,0
+Virgin Islands,3/15/2020,37.00,1,Virgin Islands43905,1,1
+Virgin Islands,3/16/2020,38.00,2,Virgin Islands43906,2,1
+Virgin Islands,3/17/2020,39.00,2,Virgin Islands43907,4,2
+Virgin Islands,3/18/2020,40.00,3,Virgin Islands43908,6,2
+Virgin Islands,3/19/2020,41.00,3,Virgin Islands43909,9,3
+Virgin Islands,3/20/2020,42.00,6,Virgin Islands43910,12,3
+Virgin Islands,3/21/2020,43.00,6,Virgin Islands43911,18,6
+Virgin Islands,3/22/2020,44.00,17,Virgin Islands43912,24,6
+Virgin Islands,3/23/2020,45.00,17,Virgin Islands43913,41,17
+Virgin Islands,3/24/2020,46.00,17,Virgin Islands43914,58,17
+Virgin Islands,3/25/2020,47.00,17,Virgin Islands43915,75,17
+Virginia,3/13/2020,35.00,30,Virginia43903,0,0
+Virginia,3/14/2020,36.00,42,Virginia43904,30,30
+Virginia,3/15/2020,37.00,45,Virginia43905,72,42
+Virginia,3/16/2020,38.00,51,Virginia43906,117,45
+Virginia,3/17/2020,39.00,67,Virginia43907,168,51
+Virginia,3/18/2020,40.00,78,Virginia43908,235,67
+Virginia,3/19/2020,41.00,94,Virginia43909,313,78
+Virginia,3/20/2020,42.00,115,Virginia43910,407,94
+Virginia,3/21/2020,43.00,152,Virginia43911,522,115
+Virginia,3/22/2020,44.00,219,Virginia43912,674,152
+Virginia,3/23/2020,45.00,254,Virginia43913,893,219
+Virginia,3/24/2020,46.00,291,Virginia43914,1147,254
+Virginia,3/25/2020,47.00,391,Virginia43915,1438,291
+Virginia,7/3/2020,55.00,1,Virginia44015,1829,391
+Virginia,8/3/2020,57.00,2,Virginia44046,1830,1
+Virginia,9/3/2020,59.00,5,Virginia44077,1832,2
+Virginia,10/3/2020,61.00,8,Virginia44107,1837,5
+Virginia,11/3/2020,63.00,10,Virginia44138,1845,8
+Virginia,12/3/2020,65.00,17,Virginia44168,1855,10
+Washington,1/2/2020,1.00,1,Washington43832,0,0
+Washington,1/3/2020,2.00,17,Washington43833,1,1
+Washington,1/21/2020,3.00,1,Washington43851,18,17
+Washington,1/22/2020,4.00,1,Washington43852,19,1
+Washington,1/23/2020,5.00,1,Washington43853,20,1
+Washington,1/24/2020,6.00,1,Washington43854,21,1
+Washington,1/25/2020,7.00,1,Washington43855,22,1
+Washington,1/26/2020,8.00,1,Washington43856,23,1
+Washington,1/27/2020,9.00,1,Washington43857,24,1
+Washington,1/28/2020,10.00,1,Washington43858,25,1
+Washington,1/29/2020,11.00,1,Washington43859,26,1
+Washington,1/30/2020,12.00,1,Washington43860,27,1
+Washington,1/31/2020,13.00,1,Washington43861,28,1
+Washington,2/2/2020,14.00,1,Washington43863,29,1
+Washington,2/3/2020,15.00,23,Washington43864,30,1
+Washington,2/13/2020,16.00,1,Washington43874,53,23
+Washington,2/14/2020,17.00,1,Washington43875,54,1
+Washington,2/15/2020,18.00,1,Washington43876,55,1
+Washington,2/16/2020,19.00,1,Washington43877,56,1
+Washington,2/17/2020,20.00,1,Washington43878,57,1
+Washington,2/18/2020,21.00,1,Washington43879,58,1
+Washington,2/19/2020,22.00,1,Washington43880,59,1
+Washington,2/20/2020,23.00,1,Washington43881,60,1
+Washington,2/21/2020,24.00,1,Washington43882,61,1
+Washington,2/22/2020,25.00,1,Washington43883,62,1
+Washington,2/23/2020,26.00,1,Washington43884,63,1
+Washington,2/24/2020,27.00,5,Washington43885,64,1
+Washington,2/25/2020,28.00,5,Washington43886,69,5
+Washington,2/26/2020,29.00,5,Washington43887,74,5
+Washington,2/27/2020,30.00,5,Washington43888,79,5
+Washington,2/28/2020,31.00,7,Washington43889,84,5
+Washington,2/29/2020,32.00,10,Washington43890,91,7
+Washington,3/2/2020,33.00,1,Washington43892,101,10
+Washington,3/3/2020,34.00,32,Washington43893,102,1
+Washington,3/13/2020,35.00,511,Washington43903,134,32
+Washington,3/14/2020,36.00,609,Washington43904,645,511
+Washington,3/15/2020,37.00,675,Washington43905,1254,609
+Washington,3/16/2020,38.00,794,Washington43906,1929,675
+Washington,3/17/2020,39.00,908,Washington43907,2723,794
+Washington,3/18/2020,40.00,1026,Washington43908,3631,908
+Washington,3/19/2020,41.00,1228,Washington43909,4657,1026
+Washington,3/20/2020,42.00,1404,Washington43910,5885,1228
+Washington,3/21/2020,43.00,1655,Washington43911,7289,1404
+Washington,3/22/2020,44.00,1844,Washington43912,8944,1655
+Washington,3/23/2020,45.00,2101,Washington43913,10788,1844
+Washington,3/24/2020,46.00,2405,Washington43914,12889,2101
+Washington,3/25/2020,47.00,2585,Washington43915,15294,2405
+Washington,4/2/2020,48.00,1,Washington43923,17879,2585
+Washington,4/3/2020,49.00,47,Washington43924,17880,1
+Washington,5/2/2020,50.00,1,Washington43953,17927,47
+Washington,5/3/2020,51.00,75,Washington43954,17928,1
+Washington,6/2/2020,52.00,1,Washington43984,18003,75
+Washington,6/3/2020,53.00,86,Washington43985,18004,1
+Washington,7/2/2020,54.00,1,Washington44014,18090,86
+Washington,7/3/2020,55.00,110,Washington44015,18091,1
+Washington,8/2/2020,56.00,1,Washington44045,18201,110
+Washington,8/3/2020,57.00,141,Washington44046,18202,1
+Washington,9/2/2020,58.00,1,Washington44076,18343,141
+Washington,9/3/2020,59.00,179,Washington44077,18344,1
+Washington,10/2/2020,60.00,1,Washington44106,18523,179
+Washington,10/3/2020,61.00,279,Washington44107,18524,1
+Washington,11/2/2020,62.00,1,Washington44137,18803,279
+Washington,11/3/2020,63.00,338,Washington44138,18804,1
+Washington,12/2/2020,64.00,1,Washington44167,19142,338
+Washington,12/3/2020,65.00,419,Washington44168,19143,1
+West Virginia,3/17/2020,39.00,1,West Virginia43907,0,0
+West Virginia,3/18/2020,40.00,2,West Virginia43908,1,1
+West Virginia,3/19/2020,41.00,5,West Virginia43909,3,2
+West Virginia,3/20/2020,42.00,8,West Virginia43910,8,5
+West Virginia,3/21/2020,43.00,12,West Virginia43911,16,8
+West Virginia,3/22/2020,44.00,16,West Virginia43912,28,12
+West Virginia,3/23/2020,45.00,16,West Virginia43913,44,16
+West Virginia,3/24/2020,46.00,39,West Virginia43914,60,16
+West Virginia,3/25/2020,47.00,52,West Virginia43915,99,39
+Wisconsin,1/3/2020,2.00,1,Wisconsin43833,0,0
+Wisconsin,2/3/2020,15.00,1,Wisconsin43864,1,1
+Wisconsin,2/13/2020,16.00,1,Wisconsin43874,2,1
+Wisconsin,2/14/2020,17.00,1,Wisconsin43875,3,1
+Wisconsin,2/15/2020,18.00,1,Wisconsin43876,4,1
+Wisconsin,2/16/2020,19.00,1,Wisconsin43877,5,1
+Wisconsin,2/17/2020,20.00,1,Wisconsin43878,6,1
+Wisconsin,2/18/2020,21.00,1,Wisconsin43879,7,1
+Wisconsin,2/19/2020,22.00,1,Wisconsin43880,8,1
+Wisconsin,2/20/2020,23.00,1,Wisconsin43881,9,1
+Wisconsin,2/21/2020,24.00,1,Wisconsin43882,10,1
+Wisconsin,2/22/2020,25.00,1,Wisconsin43883,11,1
+Wisconsin,2/23/2020,26.00,1,Wisconsin43884,12,1
+Wisconsin,2/24/2020,27.00,1,Wisconsin43885,13,1
+Wisconsin,2/25/2020,28.00,1,Wisconsin43886,14,1
+Wisconsin,2/26/2020,29.00,1,Wisconsin43887,15,1
+Wisconsin,2/27/2020,30.00,1,Wisconsin43888,16,1
+Wisconsin,2/28/2020,31.00,1,Wisconsin43889,17,1
+Wisconsin,2/29/2020,32.00,1,Wisconsin43890,18,1
+Wisconsin,3/3/2020,34.00,1,Wisconsin43893,19,1
+Wisconsin,3/13/2020,35.00,19,Wisconsin43903,20,1
+Wisconsin,3/14/2020,36.00,27,Wisconsin43904,39,19
+Wisconsin,3/15/2020,37.00,33,Wisconsin43905,66,27
+Wisconsin,3/16/2020,38.00,47,Wisconsin43906,99,33
+Wisconsin,3/17/2020,39.00,72,Wisconsin43907,146,47
+Wisconsin,3/18/2020,40.00,106,Wisconsin43908,218,72
+Wisconsin,3/19/2020,41.00,155,Wisconsin43909,324,106
+Wisconsin,3/20/2020,42.00,216,Wisconsin43910,479,155
+Wisconsin,3/21/2020,43.00,281,Wisconsin43911,695,216
+Wisconsin,3/22/2020,44.00,382,Wisconsin43912,976,281
+Wisconsin,3/23/2020,45.00,418,Wisconsin43913,1358,382
+Wisconsin,3/24/2020,46.00,481,Wisconsin43914,1776,418
+Wisconsin,3/25/2020,47.00,623,Wisconsin43915,2257,481
+Wisconsin,4/3/2020,49.00,1,Wisconsin43924,2880,623
+Wisconsin,5/2/2020,50.00,1,Wisconsin43953,2881,1
+Wisconsin,5/3/2020,51.00,1,Wisconsin43954,2882,1
+Wisconsin,6/2/2020,52.00,1,Wisconsin43984,2883,1
+Wisconsin,6/3/2020,53.00,1,Wisconsin43985,2884,1
+Wisconsin,7/2/2020,54.00,1,Wisconsin44014,2885,1
+Wisconsin,7/3/2020,55.00,1,Wisconsin44015,2886,1
+Wisconsin,8/2/2020,56.00,1,Wisconsin44045,2887,1
+Wisconsin,8/3/2020,57.00,1,Wisconsin44046,2888,1
+Wisconsin,9/2/2020,58.00,1,Wisconsin44076,2889,1
+Wisconsin,9/3/2020,59.00,2,Wisconsin44077,2890,1
+Wisconsin,10/2/2020,60.00,1,Wisconsin44106,2892,2
+Wisconsin,10/3/2020,61.00,3,Wisconsin44107,2893,1
+Wisconsin,11/2/2020,62.00,1,Wisconsin44137,2896,3
+Wisconsin,11/3/2020,63.00,6,Wisconsin44138,2897,1
+Wisconsin,12/2/2020,64.00,1,Wisconsin44167,2903,6
+Wisconsin,12/3/2020,65.00,8,Wisconsin44168,2904,1
+Wyoming,3/13/2020,35.00,2,Wyoming43903,0,0
+Wyoming,3/14/2020,36.00,3,Wyoming43904,2,2
+Wyoming,3/15/2020,37.00,3,Wyoming43905,5,3
+Wyoming,3/16/2020,38.00,10,Wyoming43906,8,3
+Wyoming,3/17/2020,39.00,15,Wyoming43907,18,10
+Wyoming,3/18/2020,40.00,17,Wyoming43908,33,15
+Wyoming,3/19/2020,41.00,18,Wyoming43909,50,17
+Wyoming,3/20/2020,42.00,22,Wyoming43910,68,18
+Wyoming,3/21/2020,43.00,24,Wyoming43911,90,22
+Wyoming,3/22/2020,44.00,26,Wyoming43912,114,24
+Wyoming,3/23/2020,45.00,28,Wyoming43913,140,26
+Wyoming,3/24/2020,46.00,37,Wyoming43914,168,28
+Wyoming,3/25/2020,47.00,49,Wyoming43915,205,37
+Wyoming,11/3/2020,63.00,1,Wyoming44138,254,49
+Wyoming,12/3/2020,65.00,1,Wyoming44168,255,1
+USA_total,,1.00,,,0,0
+USA_total,,2.00,,,8,8
+USA_total,,3.00,,,18,10
+USA_total,,4.00,,,19,1
+USA_total,,5.00,,,20,1
+USA_total,,6.00,,,26,6
+USA_total,,7.00,,,64,38
+USA_total,,8.00,,,69,5
+USA_total,,9.00,,,74,5
+USA_total,,10.00,,,79,5
+USA_total,,11.00,,,84,5
+USA_total,,12.00,,,89,5
+USA_total,,13.00,,,95,6
+USA_total,,14.00,,,104,9
+USA_total,,15.00,,,148,44
+USA_total,,16.00,,,207,59
+USA_total,,17.00,,,222,15
+USA_total,,18.00,,,237,15
+USA_total,,19.00,,,252,15
+USA_total,,20.00,,,293,41
+USA_total,,21.00,,,318,25
+USA_total,,22.00,,,343,25
+USA_total,,23.00,,,368,25
+USA_total,,24.00,,,395,27
+USA_total,,25.00,,,425,30
+USA_total,,26.00,,,455,30
+USA_total,,27.00,,,485,30
+USA_total,,28.00,,,530,45
+USA_total,,29.00,,,575,45
+USA_total,,30.00,,,635,60
+USA_total,,31.00,,,699,64
+USA_total,,32.00,,,764,65
+USA_total,,34.00,,,858,94
+USA_total,,35.00,,,983,125
+USA_total,,36.00,,,3207,2224
+USA_total,,37.00,,,6105,2898
+USA_total,,38.00,,,9705,3600
+USA_total,,39.00,,,14212,4507
+USA_total,,40.00,,,20117,5905
+USA_total,,41.00,,,28462,8345
+USA_total,,42.00,,,40875,12413
+USA_total,,43.00,,,58871,17996
+USA_total,,44.00,,,83403,24532
+USA_total,,45.00,,,116464,33061
