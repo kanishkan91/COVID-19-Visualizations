@@ -9,13 +9,20 @@ Contributed by
 *Structure*
 root -
   |--- R Scripts
+  
   |--- gif-outputs
+  
   |     |--- GIF of USA
+  
   |     |--- GIF of India
+  
   |
   |--- data
+  
   |     |--- Coronavirus_Cases_USA.csv
-  |     |--- Coronavirus_Cases_India.csv        
+  
+  |     |--- Coronavirus_Cases_India.csv      
+  
 
 
 
