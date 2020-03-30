@@ -7,21 +7,18 @@ Contributed by
 -Heramb Lonkar  `skad00sh`
 
 *Structure*
-root -
-  |--- R Scripts
-  
-  |--- gif-outputs
-  
-  |     |--- GIF of USA
-  
-  |     |--- GIF of India
-  
-  |
-  |--- data
-  
-  |     |--- Coronavirus_Cases_USA.csv
-  
-  |     |--- Coronavirus_Cases_India.csv      
+```
+root
+├── R Scripts                             #All R scripts
+├── gif-outputs                           #GIF Output folder
+│   ├── GIF of USA         
+│   └── GIF of India               
+└── data                                  #Data Folder
+    ├── Coronavirus_Cases_USA.csv
+    └── Coronavirus_Cases_India.csv 
+
+```
+   
   
 
 
