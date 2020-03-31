@@ -1,3 +1,6 @@
+#SET WORKING DIRECTORY BEFORE GETTING STARTED
+setwd("C:\Users\Heramb\Desktop\projects\COVID-19-Visualizations")
+
 #Number of cases from corona virus
 
 library(ggplot2)
@@ -13,7 +16,7 @@ library(shiny)
 library(gifski)
 library(profvis)
 
-Cases <- read.csv("Coronavirus_Cases.csv") %>% filter(Day<49)
+Cases <- read.csv("./data/Coronavirus_Cases_USA.csv") %>% filter(Day<49)
 Cases$Day <-as.numeric(Cases$Day)
 #Cases %>% select(Day,US_cumulative) %>% distinct() %>% mutate(state=paste0("USA_total")) %>% rename(Cumulative_cases=US_cumulative)->USA_Cases
 
