@@ -1,0 +1,239 @@
+"Detected.State","Date.Announced","Day","Daily.Count","Cumm"
+"Kerala",2020-01-30,0,1,1
+"Kerala",2020-02-02,3,1,2
+"Kerala",2020-02-03,4,1,3
+"Delhi",2020-03-02,32,1,1
+"Telangana",2020-03-02,32,1,1
+"Rajasthan",2020-03-03,33,1,1
+"Haryana",2020-03-04,34,14,14
+"Rajasthan",2020-03-04,34,1,2
+"Uttar Pradesh",2020-03-04,34,7,7
+"Delhi",2020-03-05,35,1,2
+"Uttar Pradesh",2020-03-05,35,1,8
+"Delhi",2020-03-06,36,1,3
+"Ladakh",2020-03-07,37,2,2
+"Tamil Nadu",2020-03-07,37,1,1
+"Kerala",2020-03-08,38,5,8
+"Delhi",2020-03-09,39,1,4
+"Jammu and Kashmir",2020-03-09,39,1,1
+"Karnataka",2020-03-09,39,1,1
+"Kerala",2020-03-09,39,1,9
+"Maharashtra",2020-03-09,39,2,2
+"Punjab",2020-03-09,39,1,1
+"Uttar Pradesh",2020-03-09,39,2,10
+"Kerala",2020-03-10,40,8,17
+"Karnataka",2020-03-10,40,3,4
+"Maharashtra",2020-03-10,40,3,5
+"Rajasthan",2020-03-10,40,1,3
+"Delhi",2020-03-11,41,1,5
+"Ladakh",2020-03-11,41,1,3
+"Maharashtra",2020-03-11,41,5,10
+"Andhra Pradesh",2020-03-12,42,1,1
+"Delhi",2020-03-12,42,1,6
+"Karnataka",2020-03-12,42,2,6
+"Kerala",2020-03-12,42,2,19
+"Maharashtra",2020-03-12,42,4,14
+"Uttar Pradesh",2020-03-12,42,2,12
+"Delhi",2020-03-13,43,1,7
+"Jammu and Kashmir",2020-03-13,43,1,2
+"Kerala",2020-03-13,43,3,22
+"Maharashtra",2020-03-13,43,3,17
+"Uttar Pradesh",2020-03-13,43,1,13
+"Maharashtra",2020-03-14,44,14,31
+"Rajasthan",2020-03-14,44,1,4
+"Telangana",2020-03-14,44,1,2
+"Kerala",2020-03-15,45,2,24
+"Maharashtra",2020-03-15,45,2,33
+"Telangana",2020-03-15,45,1,3
+"Uttarakhand",2020-03-15,45,1,1
+"Jammu and Kashmir",2020-03-16,46,1,3
+"Karnataka",2020-03-16,46,2,8
+"Kerala",2020-03-16,46,3,27
+"Maharashtra",2020-03-16,46,6,39
+"Odisha",2020-03-16,46,1,1
+"Telangana",2020-03-16,46,1,4
+"Delhi",2020-03-17,47,3,10
+"Haryana",2020-03-17,47,1,15
+"Ladakh",2020-03-17,47,5,8
+"Karnataka",2020-03-17,47,3,11
+"Maharashtra",2020-03-17,47,2,41
+"Puducherry",2020-03-17,47,1,1
+"Telangana",2020-03-17,47,1,5
+"Uttar Pradesh",2020-03-17,47,2,15
+"West Bengal",2020-03-17,47,1,1
+"Maharashtra",2020-03-18,48,4,45
+"Uttar Pradesh",2020-03-18,48,2,17
+"Telangana",2020-03-18,48,8,13
+"Karnataka",2020-03-18,48,3,14
+"Haryana",2020-03-18,48,2,17
+"Tamil Nadu",2020-03-18,48,1,2
+"Jammu and Kashmir",2020-03-18,48,1,4
+"Rajasthan",2020-03-18,48,3,7
+"Delhi",2020-03-18,48,1,11
+"Chandigarh",2020-03-19,49,1,1
+"Maharashtra",2020-03-19,49,4,49
+"Karnataka",2020-03-19,49,1,15
+"Andhra Pradesh",2020-03-19,49,2,3
+"Chhattisgarh",2020-03-19,49,1,1
+"Uttar Pradesh",2020-03-19,49,3,20
+"Tamil Nadu",2020-03-19,49,1,3
+"Punjab",2020-03-19,49,1,2
+"Kerala",2020-03-19,49,1,28
+"Gujarat",2020-03-19,49,2,2
+"Uttarakhand",2020-03-19,49,2,3
+"Telangana",2020-03-19,49,3,16
+"Odisha",2020-03-19,49,1,2
+"Rajasthan",2020-03-19,49,2,9
+"Delhi",2020-03-19,49,3,14
+"West Bengal",2020-03-20,50,1,2
+"Punjab",2020-03-20,50,1,3
+"Ladakh",2020-03-20,50,2,10
+"Delhi",2020-03-20,50,6,20
+"Maharashtra",2020-03-20,50,5,54
+"Gujarat",2020-03-20,50,5,7
+"Uttar Pradesh",2020-03-20,50,4,24
+"Rajasthan",2020-03-20,50,8,17
+"Telangana",2020-03-20,50,3,19
+"Chandigarh",2020-03-20,50,4,5
+"Kerala",2020-03-20,50,12,40
+"Haryana",2020-03-20,50,2,19
+"Himachal Pradesh",2020-03-20,50,2,2
+"Madhya Pradesh",2020-03-20,50,4,4
+"West Bengal",2020-03-21,51,2,4
+"Rajasthan",2020-03-21,51,7,24
+"Punjab",2020-03-21,51,10,13
+"Gujarat",2020-03-21,51,7,14
+"Maharashtra",2020-03-21,51,10,64
+"Delhi",2020-03-21,51,7,27
+"Karnataka",2020-03-21,51,5,20
+"Uttar Pradesh",2020-03-21,51,4,28
+"Haryana",2020-03-21,51,2,21
+"Ladakh",2020-03-21,51,3,13
+"Telangana",2020-03-21,51,2,21
+"Tamil Nadu",2020-03-21,51,3,6
+"Kerala",2020-03-21,51,12,52
+"Andhra Pradesh",2020-03-21,51,2,5
+"Chandigarh",2020-03-22,52,1,6
+"Karnataka",2020-03-22,52,6,26
+"Maharashtra",2020-03-22,52,10,74
+"Tamil Nadu",2020-03-22,52,3,9
+"Bihar",2020-03-22,52,2,2
+"Telangana",2020-03-22,52,6,27
+"Gujarat",2020-03-22,52,4,18
+"Punjab",2020-03-22,52,8,21
+"Madhya Pradesh",2020-03-22,52,2,6
+"Kerala",2020-03-22,52,15,67
+"Uttar Pradesh",2020-03-22,52,2,30
+"West Bengal",2020-03-22,52,3,7
+"Andhra Pradesh",2020-03-22,52,1,6
+"Rajasthan",2020-03-22,52,5,29
+"Maharashtra",2020-03-23,53,23,97
+"Karnataka",2020-03-23,53,7,33
+"Haryana",2020-03-23,53,7,28
+"Gujarat",2020-03-23,53,12,30
+"Delhi",2020-03-22,52,1,28
+"Delhi",2020-03-23,53,2,30
+"Telangana",2020-03-23,53,6,33
+"Chandigarh",2020-03-23,53,1,7
+"Uttarakhand",2020-03-23,53,1,4
+"Kerala",2020-03-23,53,28,95
+"Uttar Pradesh",2020-03-23,53,4,34
+"Himachal Pradesh",2020-03-23,53,1,3
+"Punjab",2020-03-23,53,2,23
+"Rajasthan",2020-03-23,53,3,32
+"Andhra Pradesh",2020-03-23,53,1,7
+"Tamil Nadu",2020-03-23,53,3,12
+"Bihar",2020-03-23,53,1,3
+"Manipur",2020-03-24,54,1,1
+"Maharashtra",2020-03-24,54,10,107
+"Madhya Pradesh",2020-03-24,54,1,7
+"Karnataka",2020-03-24,54,8,41
+"Kerala",2020-03-24,54,14,109
+"Gujarat",2020-03-24,54,6,36
+"West Bengal",2020-03-24,54,2,9
+"Tamil Nadu",2020-03-24,54,6,18
+"Telangana",2020-03-24,54,6,39
+"Jammu and Kashmir",2020-03-24,54,2,6
+"Punjab",2020-03-24,54,6,29
+"Uttar Pradesh",2020-03-24,54,1,35
+"Andhra Pradesh",2020-03-24,54,1,8
+"Haryana",2020-03-24,54,2,30
+"Bihar",2020-03-25,55,1,4
+"Madhya Pradesh",2020-03-25,55,8,15
+"Maharashtra",2020-03-25,55,15,122
+"Gujarat",2020-03-25,55,2,38
+"Mizoram",2020-03-25,55,1,1
+"Rajasthan",2020-03-25,55,6,38
+"Tamil Nadu",2020-03-25,55,8,26
+"Karnataka",2020-03-25,55,10,51
+"Haryana",2020-03-25,55,1,31
+"Jammu and Kashmir",2020-03-25,55,5,11
+"Kerala",2020-03-25,55,9,118
+"Delhi",2020-03-25,55,5,35
+"Punjab",2020-03-25,55,2,31
+"Uttarakhand",2020-03-25,55,1,5
+"Chhattisgarh",2020-03-25,55,2,3
+"Uttar Pradesh",2020-03-25,55,3,38
+"Telangana",2020-03-25,55,2,41
+"Andhra Pradesh",2020-03-25,55,2,10
+"Goa",2020-03-25,55,3,3
+"West Bengal",2020-03-26,56,1,10
+"Maharashtra",2020-03-26,56,8,130
+"Madhya Pradesh",2020-03-26,56,5,20
+"Chhattisgarh",2020-03-26,56,3,6
+"Gujarat",2020-03-26,56,6,44
+"Delhi",2020-03-26,56,4,39
+"Uttar Pradesh",2020-03-26,56,4,42
+"Bihar",2020-03-26,56,3,7
+"Andaman and Nicobar Islands",2020-03-26,56,1,1
+"Telangana",2020-03-26,56,4,45
+"Rajasthan",2020-03-26,56,5,43
+"Punjab",2020-03-26,56,2,33
+"Karnataka",2020-03-26,56,4,55
+"Haryana",2020-03-26,56,1,32
+"Tamil Nadu",2020-03-26,56,3,29
+"Jammu and Kashmir",2020-03-26,56,3,14
+"Kerala",2020-03-26,56,19,137
+"Andhra Pradesh",2020-03-26,56,1,11
+"Odisha",2020-03-26,56,1,3
+"Andaman and Nicobar Islands",2020-03-27,57,5,6
+"Rajasthan",2020-03-27,57,7,50
+"Bihar",2020-03-27,57,2,9
+"Maharashtra",2020-03-27,57,26,156
+"Andhra Pradesh",2020-03-27,57,2,13
+"Madhya Pradesh",2020-03-27,57,9,29
+"Tamil Nadu",2020-03-27,57,9,38
+"Karnataka",2020-03-27,57,9,64
+"Uttar Pradesh",2020-03-27,57,7,49
+"Jammu and Kashmir",2020-03-27,57,6,20
+"Telangana",2020-03-27,57,14,59
+"Haryana",2020-03-27,57,1,33
+"Punjab",2020-03-27,57,5,38
+"Kerala",2020-03-27,57,39,176
+"West Bengal",2020-03-27,57,5,15
+"Delhi",2020-03-27,57,1,40
+"Chandigarh",2020-03-27,57,1,8
+"Gujarat",2020-03-27,57,3,47
+"Maharashtra",2020-03-28,58,30,186
+"Gujarat",2020-03-28,58,8,55
+"Madhya Pradesh",2020-03-28,58,10,39
+"Tamil Nadu",2020-03-28,58,4,42
+"Uttar Pradesh",2020-03-28,58,16,65
+"Rajasthan",2020-03-28,58,4,54
+"Karnataka",2020-03-28,58,17,81
+"Uttarakhand",2020-03-28,58,1,6
+"Jammu and Kashmir",2020-03-28,58,13,33
+"Kerala",2020-03-28,58,6,182
+"Telangana",2020-03-28,58,8,67
+"Chhattisgarh",2020-03-28,58,1,7
+"Andaman and Nicobar Islands",2020-03-28,58,3,9
+"West Bengal",2020-03-28,58,3,18
+"Haryana",2020-03-28,58,2,35
+"Delhi",2020-03-28,58,9,49
+"Andhra Pradesh",2020-03-28,58,6,19
+"Bihar",2020-03-28,58,2,11
+"Maharashtra",2020-03-29,59,10,196
+"Rajasthan",2020-03-29,59,2,56
+"Gujarat",2020-03-29,59,3,58
+"Jammu and Kashmir",2020-03-29,59,5,38
+"Uttar Pradesh",2020-03-29,59,4,69
