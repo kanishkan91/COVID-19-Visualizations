@@ -7,3 +7,5 @@ cache: packages
 before_install:
  - sudo apt-get update
  - sudo apt-get -y install cargo 
+ 
+warnings_are_errors: false 
