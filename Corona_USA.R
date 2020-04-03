@@ -19,7 +19,7 @@ library(profvis)
 
   
 
-Cases <- read.csv("./data/Coronavirus_Cases_USA.csv") %>% filter(Day<49)
+Cases_Final <- read.csv("./data/Coronavirus_Cases_USA.csv") %>% filter(Day<49)
 Cases$Day <-as.numeric(Cases$Day)
 #Cases %>% select(Day,US_cumulative) %>% distinct() %>% mutate(state=paste0("USA_total")) %>% rename(Cumulative_cases=US_cumulative)->USA_Cases
 
