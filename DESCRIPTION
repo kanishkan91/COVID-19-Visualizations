@@ -20,8 +20,7 @@ Suggests:
     gganimate,
     tidyverse,
     tweenr,
-    gifski,
-    COVID19.compdata
+    gifski
 Remotes: github::kanishkan91/COVID19.compdata
 Encoding: UTF-8
 LazyData: true
