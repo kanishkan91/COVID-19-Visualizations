@@ -18,6 +18,7 @@ Suggests:
     usethis (>= 1.4.0),
     dplyr,
     gganimate,
+    ggstance,
     tidyverse,
     tweenr,
     gifski
