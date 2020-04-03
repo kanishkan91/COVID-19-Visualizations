@@ -7,7 +7,7 @@ Authors@R: c(person("Kanishka", "Narayan",
                 role = c("cre", "aut"),
                 email = "kanishkan91@gmail.com",
                 comment = c(github_ID = "kanishkan91")),
-  person("Kanishka", "Narayan",   role = "aut", comment = c(github_ID = "skad00sh"))
+  person("Heramb", "Lonkar",   role = "aut", comment = c(github_ID = "skad00sh"))
   )
 Description: Build visualizations related to the novel Coronavirus.
 License: MIT + file LICENSE
