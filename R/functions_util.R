@@ -8,14 +8,8 @@
 #' @param Total_ID This is the entry which will track the total cases
 #' @param states_selected A vector of special states to track cases in    
 #' @return An object that can be used within gganimate to generate the gif.
+#' @importFrom stats filter
 #' @author Kanishka Narayan
-#' @import dplyr
-#' @importFrom dplyr %>% 
-#' @importFrom gganimate transition_reveal
-#' @importFrom ggplot2 ggplot aes geom_line geom_path geom_point geom_text
-#' @import ggplot2
-#' @import gganimate
-#' @importFrom gganimate animate
 #' @export
 generate_COVID_animation <- function(Input_data=Cases_final,Total_ID="USA_total", 
                                      states_selected=c("New York","California",

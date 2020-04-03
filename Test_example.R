@@ -1,5 +1,7 @@
 library(COVID19Viualizations)
-
+library(dplyr)
+library(gganimate)
+library(ggplot2)
 
 #Load the data
 Cases_final <- read.csv("./data/Coronavirus_Cases_USA.csv") %>% filter(Day<49)
