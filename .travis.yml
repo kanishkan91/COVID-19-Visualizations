@@ -5,4 +5,4 @@ sudo: false
 cache: packages
 
 before_install:
- - sudo apt-get cargo
+ - sudo - apt-get install cargo 
