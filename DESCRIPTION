@@ -21,6 +21,7 @@ Suggests:
     ggstance,
     tidyverse,
     tweenr,
+    rust,
     gifski
 Encoding: UTF-8
 LazyData: true
