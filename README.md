@@ -27,10 +27,18 @@ root
         └── india_wrangled_data_{date}.csv
 
 ```
-   
-  
+## Example
 
+```R
+library(COVID19Viualizations)
 
+g <- generate_COVID_animation(Input_data=Cases_final,Total_ID="USA_total", 
+                                     states_selected=c("New York","California",
+                                                       "Washington"))
+
+animate(g,nframes = 300,fps=8, width = 1000, height =1000,res=100) 
+
+```  
 
 *Based on data provided by -*
 **a. USA**
