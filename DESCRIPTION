@@ -21,7 +21,6 @@ Suggests:
     tidyverse,
     tweenr,
     gifski
-Remotes: github::kanishkan91/COVID19.compdata
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.0
