@@ -5,4 +5,4 @@ sudo: false
 cache: packages
 
 before_install:
- - yum install cargo
+ - sudo apt-get cargo
