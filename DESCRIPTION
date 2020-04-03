@@ -11,7 +11,7 @@ Authors@R: c(person("Kanishka", "Narayan",
   )
 Description: Build visualizations related to the novel Coronavirus.
 License: MIT + file LICENSE
-Depends: R (>= 3.0.0)
+Depends: R (>= 3.5.1)
 Suggests:
     testthat (>= 1.0.2),
     R.utils (>= 2.6.0),
