@@ -2,7 +2,7 @@ library(COVID19Viualizations)
 
 
 #Load the data
-Cases_Final <- read.csv("./data/Coronavirus_Cases_USA.csv") %>% filter(Day<49)
+Cases_final <- read.csv("./data/Coronavirus_Cases_USA.csv") %>% filter(Day<49)
 
 
 #Generate animation
@@ -11,4 +11,4 @@ g<- generate_COVID_animation(Input_data=Cases_final,Total_ID="USA_total",
                                                "Washington"))
 
 #Animate
-animate(g,nframes = 100,fps=8, width = 1000, height =1000,res=100)
+gganimate::animate(g,nframes = 100,fps=8, width = 1000, height =1000,res=100)
