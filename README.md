@@ -1,6 +1,6 @@
 # COVID-19-Visualizations
 
-[![Travis build status](https://travis-ci.org/kanishkan91/COVID-19-Visualizations.svg?branch=master)](https://travis-ci.org/travis-ci.org/kanishkan91/COVID-19-Visualizations)
+[![Travis build status](https://travis-ci.com/kanishkan91/COVID-19-Visualizations.svg?token=wDMWDC1dxD21p5ecZYyc&branch=master)](https://travis-ci.com/github/kanishkan91/COVID-19-Visualizations)
 
 
 Some visualizations and visualization applications related to the COVID 19 pandemic
