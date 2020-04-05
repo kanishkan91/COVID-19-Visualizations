@@ -1,13 +1,11 @@
-# Working Directory of Heramb aka skad00sh
-setwd("C:/Users/Heramb/Desktop/projects/COVID-19-Visualizations/")
-
-
 library(tidyverse)
 library(ggplot2)
 library(gganimate)
 
-
-raw_data <- read.csv("https://raw.githubusercontent.com/covid19india/CovidCrowd/master/data/raw_data.csv")
+raw_data <-
+  read.csv(
+    "https://raw.githubusercontent.com/imdevskp/covid-19-india-data/master/patients_data.csv"
+  )
 
 write.csv(raw_data, paste0(
   paste0("./data/india_data/india_raw_data_", Sys.Date()), ".csv"), 
@@ -17,55 +15,61 @@ write.csv(raw_data, paste0(
 
 ##### Initial wangling of a data #####
 req_data <- raw_data %>%
-  select(
-    Patient.Number,
-    Date.Announced,
-    Age.Bracket,
-    Detected.City,
-    Detected.State,
-    Current.Status
-  )
-req_data$Date.Announced = as.Date(req_data$Date.Announced, format = "%d/%m/%Y")
-req_data$Day = round(difftime(req_data$Date.Announced, "2020-01-30", units = "days"), 0)
+  select(patient_number, date_announced, detected_state) %>%
+  arrange(patient_number)
+
+req_data$date_announced = as.Date(req_data$date_announced, format = "%d/%m/%Y")
+req_data$Day = round(difftime(req_data$date_announced, req_data$date_announced[1], units = "days"), 0)
 
 test_grand <- req_data %>%
-  group_by(Day, Detected.State)%>%
+  group_by(Day, detected_state)%>%
   add_tally(name = "Daily.Count") %>%
-  distinct(Day, Detected.State, Daily.Count) %>%
-  group_by(Detected.State) %>%
+  distinct(Day, detected_state, Daily.Count) %>%
+  group_by(detected_state) %>%
   mutate(Cumm = cumsum(Daily.Count))
 
-# ind_cumsum <- req_data %>%
-#   group_by(Day, Date.Announced) %>%
-#   tally(name = "India.Daily") %>%
-#   arrange(Day) %>%
-#   mutate(India.cumm = cumsum("India.Daily"))
+total_country_count <- req_data %>%
+  group_by(Day, )%>%
+  tally(name = "Daily.Count") %>%
+  mutate(Cumm = cumsum(Daily.Count)) 
 
-wrang_data <- left_join(req_data, test_grand, by=c("Day", "Detected.State"))
+country_name_column = data.frame(detected_state = c(rep("India_total", nrow(total_country_count))))
 
-india_wrangled_data <- wrang_data %>%
-  distinct(Detected.State, Date.Announced, Day, Daily.Count, Cumm) %>%
-  drop_na()
+total_country_count <- bind_cols(total_country_count, country_name_column)
 
-write.csv(india_wrangled_data, paste0(
+total_country_count <- total_country_count %>%
+  select(detected_state, Day, Daily.Count, Cumm)%>%
+  group_by(detected_state)
+total_country_count$detected_state = as.character(total_country_count$detected_state)
+
+india_wrangled_data <- test_grand %>%
+  select(detected_state, Day, Daily.Count, Cumm) 
+india_wrangled_data$detected_state = as.character(india_wrangled_data$detected_state)
+
+india_wrangled_data_final = full_join(india_wrangled_data, total_country_count)
+
+Date_df = req_data %>%
+  select(date_announced, Day) %>%
+  distinct(date_announced, Day)
+
+india_wrangled_data_final = left_join(india_wrangled_data_final, Date_df)
+india_wrangled_data_final <- india_wrangled_data_final %>%  
+  drop_na() %>%
+  arrange(detected_state)
+
+india_wrangled_data_final = india_wrangled_data_final %>%
+  rename(
+    state = detected_state,
+    date = date_announced,
+    Cases = Daily.Count,
+    Cumulative_cases = Cumm
+  )
+
+write.csv(india_wrangled_data_final, paste0(
   paste0("./data/india_data/india_wrangled_data_", Sys.Date()), ".csv"), 
   row.names = F)
 
 
-theme_set(theme_bw())
-g = ggplot(india_wrangled_data,aes(x = Day,y = Cumm,group=Detected.State,color=Detected.State))+
-  geom_line()+
-  geom_point(size=2)+
-  transition_reveal(Day)+
-  #transition_states(Day,transition_length = 2,state_length = 1)+
-  coord_cartesian(clip = 'off') +
-  theme_minimal()+
-  theme(legend.position = "none")+
-  #xlim(0,45)+
-  ylim(0,max(india_wrangled_data$Cumm))
-
-animate(g,nframes = 100,fps=10, width = 1000, height =1000,res=100)
-anim_save("./gif-outputs/Corona_India.gif")
 
 
 
